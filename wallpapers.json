@@ -24,9 +24,46 @@
       "name": "Cars",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OldSchool.jpeg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OldSchool.jpeg"
+    },
+    {
+      "name": "Food",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/donuts.jpeg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/donuts.jpeg"
     }
   ],
   "Wallpapers": [
+    {
+      "name": "Mountains",
+      "author": "Elena Koycheva",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/alp.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/alp.jpeg",
+      "collections": "nature",
+      "downloadable": true
+    },
+    {
+      "name": "Donuts",
+      "author": "Elena Koycheva",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/donuts.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/donuts.jpeg",
+      "collections": "food",
+      "downloadable": true
+    },
+    {
+      "name": "Gazing Stars",
+      "author": "Ethan Cull",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Gazing.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Gazing.jpeg",
+      "collections": "nature",
+      "downloadable": true
+    },
+    {
+      "name": "'67",
+      "author": "Ethan Cull",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/67.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/67.jpeg",
+      "collections": "cars",
+      "downloadable": true
+    },
     {
       "name": "Williamsburg Bridge",
       "author": "Zac Ong",
