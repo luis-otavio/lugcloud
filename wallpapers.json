@@ -74,14 +74,6 @@
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/FeelLifeinyourveins.jpeg",
       "collections": "nature,people",
       "downloadable": true
-    },
-    {
-      "name": "Replections",
-      "author": "Matthew Kane",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo1.jpeg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo1.jpeg",
-      "collections": "people",
-      "downloadable": true
     }
   ]
 }
