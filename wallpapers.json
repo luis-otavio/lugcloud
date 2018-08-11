@@ -23,11 +23,11 @@
   ],
   "Wallpapers": [
     {
-      "name": "ShotA",
-      "author": "Someone",
-      "url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg",
+      "name": "phpto1",
+      "author": "Matthew Kane",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo1.jpeg",
       "collections": "featured,landscapes,people",
-      "downloadable": false
+      "downloadable": true
     },
     {
       "name": "ShotB",
