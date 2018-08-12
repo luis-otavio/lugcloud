@@ -32,16 +32,16 @@
     },
     {
       "name": "Abstract",
-      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wall.jpeg",
-      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wall.jpeg"
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Wall.jpeg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Wall.jpeg"
     }
   ],
   "Wallpapers": [
     {
       "name": "Lights",
       "author": "Damon Lam",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Lights.jpeg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Lights.jpeg",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/lights.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/lights.jpeg",
       "collections": "Abstract",
       "downloadable": true
     },
@@ -88,8 +88,8 @@
     {
       "name": "Wall",
       "author": "KS KYUNG",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wall.jpeg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wall.jpeg",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Wall.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Wall.jpeg",
       "collections": "abstract",
       "downloadable": true
     },
