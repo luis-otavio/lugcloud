@@ -17,8 +17,8 @@
     },
     {
       "name": "Nature",
-      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/FeelLifeinyourveins.jpeg",
-      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/FeelLifeinyourveins.jpeg"
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Treeflection.jpeg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Treeflection.jpeg"
     },
     {
       "name": "Cars",
@@ -29,9 +29,110 @@
       "name": "Food",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/donuts.jpeg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/donuts.jpeg"
+    },
+    {
+      "name": "Abstract",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wall.jpeg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wall.jpeg"
     }
   ],
   "Wallpapers": [
+    {
+      "name": "Treeflection",
+      "author": "",
+      "url": "",
+      "thumbnail_url": "",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Treeflection",
+      "author": "",
+      "url": "",
+      "thumbnail_url": "",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Treeflection",
+      "author": "",
+      "url": "",
+      "thumbnail_url": "",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Treeflection",
+      "author": "",
+      "url": "",
+      "thumbnail_url": "",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "Lights",
+      "author": "Damon Lam",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Lights.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Lights.jpeg",
+      "collections": "Abstract",
+      "downloadable": true
+    },
+    {
+      "name": "Ocean Hot",
+      "author": "Ryan Loughlin",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanHot.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanHot.jpeg",
+      "collections": "",
+      "downloadable": true
+    },
+    {
+      "name": "The Vi-bru Shaman",
+      "author": "Judeus Samson",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TheVi-bruShaman.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TheVi-bruShaman.jpeg",
+      "collections": "people",
+      "downloadable": true
+    },
+    {
+      "name": "Let me take a selfie",
+      "author": "Dejan Zakic",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Letmetakeaselfie.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Letmetakeaselfie.jpeg",
+      "collections": "nature,people",
+      "downloadable": true
+    },
+    {
+      "name": "Urban",
+      "author": "chuttersnap",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Urban.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Urban.jpeg",
+      "collections": "city",
+      "downloadable": true
+    },
+    {
+      "name": "Treeflection",
+      "author": "Lucas Ludwig",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Treeflection.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Treeflection.jpeg",
+      "collections": "nature",
+      "downloadable": true
+    },
+    {
+      "name": "Wall",
+      "author": "KS KYUNG",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wall.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wall.jpeg",
+      "collections": "abstract",
+      "downloadable": true
+    },
+    {
+      "name": "Destination Adventure",
+      "author": "Matthew Kerslake",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DestinationAdventure.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DestinationAdventure.jpeg",
+      "collections": "nature",
+      "downloadable": true
+    },
     {
       "name": "Mountains",
       "author": "Elena Koycheva",
