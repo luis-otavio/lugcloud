@@ -49,9 +49,64 @@
       "name": "Terror",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractGhost.jpg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractGhost.jpg"
+    },
+    {
+      "name": "Animes",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Donald_Duck_Silver.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Donald_Duck_Silver.jpg"
     }
   ],
   "Wallpapers": [
+    {
+      "name": "Lights Road",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Lights_road.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Lights_road.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 393000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Street night",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Street_night.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Street_night.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 207000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Gamers",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Gamers.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Gamers.jpg",
+      "collections": "animes",
+      "downloadable": true,
+      "size": 990000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Donald Duck Silver",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Donald_Duck_Silver.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Donald_Duck_Silver.jpg",
+      "collections": "animes",
+      "downloadable": true,
+      "size": 2030000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Dia de los Muertos",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dia_de_los_Muertos.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dia_de_los_Muertos.jpg",
+      "collections": "terror",
+      "downloadable": true,
+      "size": 2850000,
+      "copyright": "Free"
+    },
     {
       "name": "Dark Souls",
       "author": "",
