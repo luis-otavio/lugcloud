@@ -42,16 +42,20 @@
       "author": "Damon Lam",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/lights.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/lights.jpeg",
-      "collections": "Abstract",
-      "downloadable": true
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 104400,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Ocean Hot",
       "author": "Ryan Loughlin",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanHot.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanHot.jpeg",
-      "collections": "",
-      "downloadable": true
+      "collections": "nature",
+      "downloadable": true,
+      "size": 898200,
+      "copyright": "Free for download and use."
     },
     {
       "name": "The Vi-bru Shaman",
@@ -59,7 +63,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TheVi-bruShaman.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TheVi-bruShaman.jpeg",
       "collections": "people",
-      "downloadable": true
+      "downloadable": true,
+      "size": 1200000,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Let me take a selfie",
@@ -67,7 +73,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Letmetakeaselfie.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Letmetakeaselfie.jpeg",
       "collections": "nature,people",
-      "downloadable": true
+      "downloadable": true,
+      "size": 910400,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Urban",
@@ -75,7 +83,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Urban.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Urban.jpeg",
       "collections": "city",
-      "downloadable": true
+      "downloadable": true,
+      "size": 1100000,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Treeflection",
@@ -83,7 +93,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Treeflection.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Treeflection.jpeg",
       "collections": "nature",
-      "downloadable": true
+      "downloadable": true,
+      "size": 3200000,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Wall",
@@ -91,7 +103,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Wall.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Wall.jpeg",
       "collections": "abstract",
-      "downloadable": true
+      "downloadable": true,
+      "size": 1200000,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Destination Adventure",
@@ -99,7 +113,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DestinationAdventure.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DestinationAdventure.jpeg",
       "collections": "nature",
-      "downloadable": true
+      "downloadable": true,
+      "size": 2500000,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Mountains",
@@ -107,7 +123,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/alp.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/alp.jpeg",
       "collections": "nature",
-      "downloadable": true
+      "downloadable": true,
+      "size": 751800,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Donuts",
@@ -115,7 +133,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/donuts.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/donuts.jpeg",
       "collections": "food",
-      "downloadable": true
+      "downloadable": true,
+      "size": 176100,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Gazing Stars",
@@ -123,7 +143,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Gazing.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Gazing.jpeg",
       "collections": "nature",
-      "downloadable": true
+      "downloadable": true,
+      "size": 1100000,
+      "copyright": "Free for download and use."
     },
     {
       "name": "'67",
@@ -131,7 +153,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/67.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/67.jpeg",
       "collections": "cars",
-      "downloadable": true
+      "downloadable": true,
+      "size": 279800,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Williamsburg Bridge",
@@ -139,7 +163,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/WilliamsburgBridge.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/WilliamsburgBridge.jpeg",
       "collections": "city",
-      "downloadable": true
+      "downloadable": true,
+      "size": 224000,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Olmsted Point view of Half Dome",
@@ -147,7 +173,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OlmstedPointviewofHalfDome.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OlmstedPointviewofHalfDome.jpeg",
       "collections": "nature,landscapes",
-      "downloadable": true
+      "downloadable": true,
+      "size": 988000,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Sunrise at Mt. Bromo",
@@ -155,7 +183,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SunriseatMtBromo.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SunriseatMtBromo.jpeg",
       "collections": "",
-      "downloadable": true
+      "downloadable": true,
+      "size": 101300,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Old School",
@@ -163,7 +193,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OldSchool.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OldSchool.jpeg",
       "collections": "cars",
-      "downloadable": true
+      "downloadable": true,
+      "size": 460900,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Black Streets",
@@ -171,7 +203,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlackStreets.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlackStreets.jpeg",
       "collections": "city",
-      "downloadable": true
+      "downloadable": true,
+      "size": 759100,
+      "copyright": "Free for download and use."
     },
     {
       "name": "Feel Life in your veins",
@@ -179,7 +213,9 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/FeelLifeinyourveins.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/FeelLifeinyourveins.jpeg",
       "collections": "nature,people",
-      "downloadable": true
+      "downloadable": true,
+      "size": 659000,
+      "copyright": "Free for download and use."
     }
   ]
 }
