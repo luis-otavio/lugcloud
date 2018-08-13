@@ -48,11 +48,31 @@
   ],
   "Wallpapers": [
     {
-      "name": "Vikings",
+      "name": "Tree Red",
       "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TreeRed.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreeRed.jpeg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 6000000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Skull",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Skull.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skull.jpeg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 1590000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Vikings",
+      "author": ".",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vikings.jpeg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpeg",
-      "collections": "",
+      "collections": "entretainment",
       "downloadable": true,
       "size": 434000,
       "copyright": "Free"
