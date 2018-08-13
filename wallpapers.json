@@ -48,6 +48,26 @@
   ],
   "Wallpapers": [
     {
+      "name": "Skulls Colored",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SkullsColored.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SkullsColored.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 2920000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Colors",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Colors.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colors.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 926000,
+      "copyright": "Free"
+    },
+    {
       "name": "Hole",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hole.jpeg",
