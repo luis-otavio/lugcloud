@@ -39,9 +39,24 @@
       "name": "Pets",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DogPet.jpeg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DogPet.jpeg"
+    },
+    {
+      "name": "Entretainment",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vikings.jpeg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpeg"
     }
   ],
   "Wallpapers": [
+    {
+      "name": "Vikings",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vikings.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpeg",
+      "collections": "",
+      "downloadable": true,
+      "size": 434000,
+      "copyright": "Free"
+    },
     {
       "name": "On the Lookout",
       "author": "Amogh Manjunath",
