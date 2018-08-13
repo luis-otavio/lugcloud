@@ -48,13 +48,33 @@
   ],
   "Wallpapers": [
     {
-      "name": "",
+      "name": "Colors Glow",
       "author": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OntheLookout.jpeg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OntheLookout.jpeg",
-      "collections": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ColorsGlow.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ColorsGlow.jpg",
+      "collections": "abstract",
       "downloadable": true,
-      "size": ,
+      "size": 738000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Abstract Clouds",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractClouds.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractClouds.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 591000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Curved",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Curved.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Curved.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 3880000,
       "copyright": "Free"
     },
     {
