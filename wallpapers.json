@@ -48,10 +48,50 @@
   ],
   "Wallpapers": [
     {
+      "name": "Hole",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hole.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hole.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 2940000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Pitbull",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Pitbull.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Pitbull.jpg",
+      "collections": "pet",
+      "downloadable": true,
+      "size": 1750000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Mountain Amazing",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MountainAmazing.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainAmazing.jpg",
+      "collections": "entretainment,nature",
+      "downloadable": true,
+      "size": 3540000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Game Over",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GameOver.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GameOver.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 4140000,
+      "copyright": "Free"
+    },
+    {
       "name": "Tree Red",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TreeRed.jpeg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreeRed.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreeRed.jpg",
       "collections": "nature",
       "downloadable": true,
       "size": 6000000,
@@ -61,7 +101,7 @@
       "name": "Skull",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Skull.jpeg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skull.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skull.jpg",
       "collections": "entretainment",
       "downloadable": true,
       "size": 1590000,
@@ -69,9 +109,9 @@
     },
     {
       "name": "Vikings",
-      "author": ".",
+      "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vikings.jpeg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpg",
       "collections": "entretainment",
       "downloadable": true,
       "size": 434000,
