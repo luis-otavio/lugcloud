@@ -63,6 +63,16 @@
   ],
   "Wallpapers": [
     {
+      "name": "Nexus",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Nexus.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Nexus.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 359000,
+      "copyright": "Free"
+    },
+    {
       "name": "Play Your Polygons",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Play_Your_Polygons.jpg",
