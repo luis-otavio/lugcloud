@@ -54,9 +54,54 @@
       "name": "Animes",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Donald_Duck_Silver.jpg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Donald_Duck_Silver.jpg"
+    },
+    {
+      "name": "Material",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Grey_Neon_Yellow.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Grey_Neon_Yellow.jpg"
     }
   ],
   "Wallpapers": [
+    {
+      "name": "Play Your Polygons",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Play_Your_Polygons.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Play_Your_Polygons.jpg",
+      "collections": "material",
+      "downloadable": true,
+      "size": 359000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Material Design",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Material_Design10939362.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Material_Design10939362.jpg",
+      "collections": "material",
+      "downloadable": true,
+      "size": 359000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Material Design",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Material_Design.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Material_Design.jpg",
+      "collections": "material",
+      "downloadable": true,
+      "size": 150000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Ocean Wave",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Ocean_Wave.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Ocean_Wave.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 799000,
+      "copyright": "Free"
+    },
     {
       "name": "Lights Road",
       "author": "",
@@ -132,7 +177,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Grey_Neon_Yellow.jpg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Grey_Neon_Yellow.jpg",
-      "collections": "abstract",
+      "collections": "material",
       "downloadable": true,
       "size": 315000,
       "copyright": "Free"
