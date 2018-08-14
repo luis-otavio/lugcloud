@@ -39,9 +39,344 @@
       "name": "Pets",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DogPet.jpeg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DogPet.jpeg"
+    },
+    {
+      "name": "Entretainment",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vikings.jpeg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpeg"
+    },
+    {
+      "name": "Terror",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractGhost.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractGhost.jpg"
+    },
+    {
+      "name": "Animes",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Donald_Duck_Silver.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Donald_Duck_Silver.jpg"
     }
   ],
   "Wallpapers": [
+    {
+      "name": "Lights Road",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Lights_road.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Lights_road.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 393000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Street night",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Street_night.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Street_night.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 207000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Gamers",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Gamers.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Gamers.jpg",
+      "collections": "animes",
+      "downloadable": true,
+      "size": 990000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Donald Duck Silver",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Donald_Duck_Silver.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Donald_Duck_Silver.jpg",
+      "collections": "animes",
+      "downloadable": true,
+      "size": 2030000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Dia de los Muertos",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dia_de_los_Muertos.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dia_de_los_Muertos.jpg",
+      "collections": "terror",
+      "downloadable": true,
+      "size": 2850000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Dark Souls",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Souls.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Souls.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 828000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Dark Link",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Link.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Link.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 308000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Dark Grey Neon Yellow",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Grey_Neon_Yellow.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Grey_Neon_Yellow.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 315000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Colorful Geometry",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Colorful_Geometry.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colorful_Geometry.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 1450000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Color Storm",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Color_Storm.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Color_Storm.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 954000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Cadillac",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Cadillac.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Cadillac.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 1880000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Bubbles",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Bubbles.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Bubbles.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 563000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Black Bullet",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlackBullet.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlackBullet.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 281000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Black and red",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Black_and_red.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Black_and_red.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 1040000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Batman",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Batman.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Batman.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 113000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Audi S5",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Audi_S5.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Audi_S5.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 799000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Abstract",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Abstract.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Abstract.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 2270000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Abstrac tMonuments",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractMonuments-.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractMonuments-.jpg",
+      "collections": "abstract,city",
+      "downloadable": true,
+      "size": 320000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Abstract Ghost",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractGhost.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractGhost.jpg",
+      "collections": "abstract,terror",
+      "downloadable": true,
+      "size": 199000,
+      "copyright": "Free"
+    },
+    {
+      "name": "City Night",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CityNight.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CityNight.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 4590000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Colors Glow",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ColorsGlow.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ColorsGlow.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 738000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Abstract Clouds",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractClouds.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractClouds.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 591000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Curved",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Curved.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Curved.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 3880000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Skulls Colored",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SkullsColored.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SkullsColored.jpeg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 2920000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Colors",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Colors.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colors.jpeg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 926000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Hole",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hole.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hole.jpeg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 2940000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Pitbull",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Pitbull.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Pitbull.jpeg",
+      "collections": "pet",
+      "downloadable": true,
+      "size": 1750000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Mountain Amazing",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MountainAmazing.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainAmazing.jpeg",
+      "collections": "entretainment,nature",
+      "downloadable": true,
+      "size": 3540000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Game Over",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GameOver.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GameOver.jpeg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 4140000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Tree Red",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TreeRed.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreeRed.jpeg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 6000000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Skull",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Skull.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skull.jpeg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 1590000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Vikings",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vikings.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpeg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 434000,
+      "copyright": "Free"
+    },
     {
       "name": "On the Lookout",
       "author": "Amogh Manjunath",
