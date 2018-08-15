@@ -63,6 +63,96 @@
   ],
   "Wallpapers": [
     {
+      "name": "Boat",
+      "author": "Christoph von Gellhorn",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Boat.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Boat.jpeg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1600000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Sunrise at Coogee Beach",
+      "author": "Christoph von Gellhorn",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SunriseatCoogeeBeach.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SunriseatCoogeeBeach.jpeg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 925700,
+      "copyright": "Free"
+    },
+    {
+      "name": "Tre Cime Di Lavaredo",
+      "author": "Damiano Baschiera",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TreCimeDiLavaredo.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreCimeDiLavaredo.jpeg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 820900,
+      "copyright": "Free"
+    },
+    {
+      "name": "Neon city",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Neoncity.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Neoncity.jpeg",
+      "collections": "people",
+      "downloadable": true,
+      "size": 372000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Italian gelato at Florence",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ItaliangelatoatFlorence.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ItaliangelatoatFlorence.jpeg",
+      "collections": "food",
+      "downloadable": true,
+      "size": 1400000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Empire Sunset",
+      "author": "Chelsea London Phillips",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/EmpireSunset.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/EmpireSunset.jpeg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 1676141,
+      "copyright": "Free"
+    },
+    {
+    "name": "Chinatown Moods",
+    "author": "Rye Jessen",
+    "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ChinatownMoods.jpeg",
+    "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ChinatownMoods.jpeg",
+    "collections": "cars,city",
+    "downloadable": true,
+    "size": 1888100,
+    "copyright": "Free"
+    },
+    {
+      "name": "Bridge In Nature",
+      "author": "Rye Jessen",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Bridge.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Bridge.jpeg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 977800,
+      "copyright": "Free"
+    },
+    {
+      "name": "Possibilities",
+      "author": "Casey Horner",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Possibilities.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Possibilities.jpeg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 3684920,
+      "copyright": "Free"
+    },
+    {
       "name": "Nexus",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Nexus.jpg",
