@@ -59,9 +59,130 @@
       "name": "Material",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Grey_Neon_Yellow.jpg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Grey_Neon_Yellow.jpg"
+    },
+    {
+      "name": "Space",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/NightSky.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/NightSky.jpg"
+    },
+    {
+      "name": "Technology",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/NightSky.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/NightSky.jpg"
     }
   ],
   "Wallpapers": [
+    
+    {
+      "name": "OceanWave",
+      "author": "Luke Stackpoole",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanWave.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanWave.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 2163000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Moody day on the hudson",
+      "author": "Luke Stackpoole",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Moodydayonthehudson.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Moodydayonthehudson.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 4586000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Welcome Suprise",
+      "author": "Robert Richarz",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1502375904982.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1502375904982.jpg",
+      "collections": "space",
+      "downloadable": true,
+      "size": 4586000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Sunset Skyline",
+      "author": "Yeshi Kangrang",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1502375904982.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1502375904982.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 1213000,
+      "copyright": "Free"
+    },  
+    {
+      "name": "Flying a drone",
+      "author": "Holger Link",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Flyingadrone.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Flyingadrone.jpg",
+      "collections": "technology,city",
+      "downloadable": true,
+      "size": 495000,
+      "copyright": "Free"
+    },  
+    {
+      "name": "Night Sky",
+      "author": "Holger Link",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/NightSky.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/NightSky.jpg",
+      "collections": "space,nature",
+      "downloadable": true,
+      "size": 1252000,
+      "copyright": "Free"
+    },  
+    {
+      "name": "San Francisco, United States",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1529370084509.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1529370084509.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 1252000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Holbox Island",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/HolboxIsland.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/HolboxIsland.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1177000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Colorful galaxy",
+      "author": "Jeremy Thomas",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Colorfulgalaxy.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colorfulgalaxy.jpg",
+      "collections": "space",
+      "downloadable": true,
+      "size": 3816000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Towards the ocean",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Towardstheocean.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Towardstheocean.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1413000,
+      "copyright": "Free"
+    },
+    {
+      "name": "The Montain",
+      "author": "Zhang Murphy",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TheMontain.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TheMontain.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 713000,
+      "copyright": "Free"
+    },
     {
       "name": "Boat",
       "author": "Christoph von Gellhorn",
