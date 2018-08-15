@@ -75,7 +75,7 @@
     
     {
       "name": "OceanWave",
-      "author": "Luke Stackpoole",
+      "author": "Siim Lukka",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanWave.jpg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanWave.jpg",
       "collections": "nature",
@@ -96,8 +96,8 @@
     {
       "name": "Welcome Suprise",
       "author": "Robert Richarz",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1502375904982.jpg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1502375904982.jpg",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/WelcomeSuprise.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/WelcomeSuprise.jpg",
       "collections": "space",
       "downloadable": true,
       "size": 4586000,
