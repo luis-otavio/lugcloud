@@ -70,9 +70,194 @@
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Flyingadrone.jpg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Flyingadrone.jpg"
     }
+    {
+      "name": "Android Pie",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Flyingadrone.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Flyingadrone.jpg"
+    }
   ],
   "Wallpapers": [
-    
+    {
+      "name": "Android Pie 1",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-1.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-1.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 7101000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Android Pie 2",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-2.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-2.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 3174000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Android Pie 3",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-3.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-3.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 7033000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Android Pie 4",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-4.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-4.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 2573000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Android Pie 5",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-4.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-4.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 3355000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 6",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-6.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-6.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 915000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 7",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-7.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-7.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 1068000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 8",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-8.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-8.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 3211000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 9",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-9.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-9.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 2157000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 10",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-10.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-10.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 1388000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 11",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-11.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-11.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 2037000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 12",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-12.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-12.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 1862000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 13",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-13.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-13.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 2633000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 14",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-14.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-14.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 378000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 15",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-15.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-15.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 406000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 16",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-16.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-16.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 524000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 17",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-17.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-17.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 292000,
+      "copyright": "Free"
+    }, 
+    {
+      "name": "Android Pie 18",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-18.png",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-18.jpg",
+      "collections": "android pie",
+      "downloadable": true,
+      "size": 3565000,
+      "copyright": "Free"
+    }, 
+ 
     {
       "name": "OceanWave",
       "author": "Siim Lukka",
