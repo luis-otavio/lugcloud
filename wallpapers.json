@@ -69,7 +69,7 @@
       "name": "Technology",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Flyingadrone.jpg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Flyingadrone.jpg"
-    }
+    },
     {
       "name": "Android Pie",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Flyingadrone.jpg",
@@ -257,7 +257,6 @@
       "size": 3565000,
       "copyright": "Free"
     }, 
- 
     {
       "name": "OceanWave",
       "author": "Siim Lukka",
