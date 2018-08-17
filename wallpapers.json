@@ -256,17 +256,17 @@
       "downloadable": true,
       "size": 3565000,
       "copyright": "by Google"
-    }, 
+    },
     {
-      "name": "Ocean Wave",
-      "author": "Siim Lukka",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanWave.jpg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanWave.jpg",
+      "name": "Ocean Hot",
+      "author": "Ryan Loughlin",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanHot.jpeg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanHot.jpeg",
       "collections": "nature",
       "downloadable": true,
-      "size": 2163000,
+      "size": 898200,
       "copyright": "Free"
-    }, 
+    },
     {
       "name": "Moody day on the hudson",
       "author": "Luke Stackpoole",
@@ -925,16 +925,6 @@
       "collections": "abstract",
       "downloadable": true,
       "size": 104400,
-      "copyright": "Free"
-    },
-    {
-      "name": "Ocean Hot",
-      "author": "Ryan Loughlin",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanHot.jpeg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanHot.jpeg",
-      "collections": "nature",
-      "downloadable": true,
-      "size": 898200,
       "copyright": "Free"
     },
     {
