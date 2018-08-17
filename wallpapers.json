@@ -258,6 +258,86 @@
       "copyright": "by Google"
     },
     {
+      "name": "Car Wallpaper",
+      "author": "Andrei",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/car1.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/car1.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 98800,
+      "copyright": "Free"
+    },
+    {
+      "name": "Car Wallpaper",
+      "author": "Andrei",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/car.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/car.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 749000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Gray triangles on a facade",
+      "author": "Joel Filipe",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Graytriangles.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Graytriangles.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 3030000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Outside the Oculus World Trade Center",
+      "author": "Gus Moretta",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Outside.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Outside.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 4641000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Dreamy night",
+      "author": "Olivier Lance",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dreamynight.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dreamynight.jpg",
+      "collections": "nature,space",
+      "downloadable": true,
+      "size": 1615000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Teddy",
+      "author": "Joe Caione",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Teddy.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Teddy.jpg",
+      "collections": "pet",
+      "downloadable": true,
+      "size": 1023000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Transportation",
+      "author": "rawpixel",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1534411939279.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1534411939279.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 1231000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Star reflection",
+      "author": "Johannes Plenio",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Starreflection.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Starreflection.jpg",
+      "collections": "nature,space",
+      "downloadable": true,
+      "size": 474000,
+      "copyright": "Free"
+    },
+    {
       "name": "Ocean Hot",
       "author": "Ryan Loughlin",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanHot.jpeg",
