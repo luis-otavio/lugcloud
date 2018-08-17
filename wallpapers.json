@@ -468,16 +468,6 @@
       "copyright": "Free"
     },
     {
-      "name": "Play Your Polygons",
-      "author": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Play_Your_Polygons.jpg",
-      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Play_Your_Polygons.jpg",
-      "collections": "material",
-      "downloadable": true,
-      "size": 359000,
-      "copyright": "Free"
-    },
-    {
       "name": "Material Design",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Material_Design10939362.jpg",
@@ -495,6 +485,16 @@
       "collections": "material",
       "downloadable": true,
       "size": 150000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Play Your Polygons",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Play_Your_Polygons.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Play_Your_Polygons.jpg",
+      "collections": "material",
+      "downloadable": true,
+      "size": 359000,
       "copyright": "Free"
     },
     {
