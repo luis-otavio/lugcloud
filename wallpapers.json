@@ -77,6 +77,217 @@
     }
   ],
   "Wallpapers": [
+    
+    {
+      "name": "Instagram Sunset",
+      "author": "Sánchez Noskov",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/InstagramSunset.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/InstagramSunset.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1881000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Clocked in at 4000 Ft.",
+      "author": "Redd Angelo",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Clocked.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Clocked.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1362000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Open Road",
+      "author": "Rory Hennessey",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OpenRoad.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OpenRoad.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1908000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Into The Night",
+      "author": "Mado El Khouly",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/IntoTheNight.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/IntoTheNight.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1908000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Invert",
+      "author": "Jan Traid",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Invert.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Invert.jpg",
+      "collections": "nature,people",
+      "downloadable": true,
+      "size": 3316000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Seljalandsfoss, Iceland",
+      "author": "Alex Lopez",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Seljalandsfoss.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Seljalandsfoss.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1317000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Chinatown",
+      "author": "Mauricio Chavez",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Chinatown.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Chinatown.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 3689000,
+      "copyright": "Free"
+    },
+    {
+      "name": "All Rise",
+      "author": "Ian Dooley",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AllRise.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AllRise.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 727000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Forest",
+      "author": "Marcelo Vaz",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MontainTree.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MontainTree.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1396000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Boat Mountain",
+      "author": "Pietro De Grandi",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BoatMontain.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BoatMontain.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 2755000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Manhattan, New York, United States",
+      "author": "Malte Schmidt",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Manhattan.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Manhattan.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 1476000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Milky Way above a broken road",
+      "author": "Adrian Pelletier",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/brokenroad.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/brokenroad.jpg",
+      "collections": "nature,space",
+      "downloadable": true,
+      "size": 4032000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Simple Coloured Background",
+      "author": "Andrej Lišakov",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SimpleColouredBackground.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SimpleColouredBackground.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 2001000,
+      "copyright": "Free"
+    },
+    {
+      "name": "The Palms",
+      "author": "Xavier Coiffic",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ThePalms.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ThePalms.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 2809000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Mountain Sky",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MountainSky.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainSky.jpg",
+      "collections": "nature,space",
+      "downloadable": true,
+      "size": 2850000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Banff, Canada",
+      "author": "Neil Rosenstech",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BanffCanada.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BanffCanada.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 16667000,
+      "copyright": "Free"
+    },
+    {
+      "name": "High Roller",
+      "author": "Campbell Boulanger",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/HighRoller.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/HighRoller.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 1143000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Car Wallpaper",
+      "author": "John Matychuk",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/car2.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/car2.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 3031000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Same ole",
+      "author": "Alex Iby",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Sameole.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Sameole.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 1641000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Purple Rain",
+      "author": "Tom Roberts",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/PurpleRain.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/PurpleRain.jpg",
+      "collections": "people",
+      "downloadable": true,
+      "size": 904000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Blue Magic",
+      "author": "Tom Roberts",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlueMagic.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlueMagic.jpg",
+      "collections": "people",
+      "downloadable": true,
+      "size": 1231000,
+      "copyright": "Free"
+    },
     {
       "name": "Android Pie 1",
       "author": "",
