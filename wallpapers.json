@@ -74,10 +74,446 @@
       "name": "Android Pie",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-1.png",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-1.jpg"
+    },
+    {
+      "name": "Happy",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Sparkler.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Sparkler.jpg"
+    },
+    {
+      "name": "Love",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hearts.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hearts.jpg"
+    },
+    {
+      "name": "Team",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians_mundial.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_mundial.jpg"
     }
+  
   ],
   "Wallpapers": [
+    {
+      "name": "FC Barcelona",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/fcb.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/fcb.jpg",
+      "collections": "team",
+      "downloadable": true,
+      "size": 751000,
+      "copyright": "Free"
+    },
+    {
+      "name": "PSG 2018-2019",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/psg_2018-2019.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/psg_2018-2019.jpg",
+      "collections": "team",
+      "downloadable": true,
+      "size": 179000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Joker",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/joker.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/joker.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 775000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Circuit",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/circuit.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/circuit.jpg",
+      "collections": "technology",
+      "downloadable": true,
+      "size": 587000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Dog",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/dog.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/dog.jpg",
+      "collections": "pet",
+      "downloadable": true,
+      "size": 624000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Muscle Car",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/muscle_car.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/muscle_car.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 171000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Kakashi",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/kakashi.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/kakashi.jpg",
+      "collections": "animes",
+      "downloadable": true,
+      "size": 187000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Weed",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/weed.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/weed.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 270000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Earth",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/earth.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/earth.jpg",
+      "collections": "space",
+      "downloadable": true,
+      "size": 1937000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Goku Forms",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/goku_forms.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/goku_forms.jpg",
+      "collections": "animes",
+      "downloadable": true,
+      "size": 705000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Lazy Day",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/lazy_day.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/lazy_day.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 1157000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Juventus Logo",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/juventus_logo.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/juventus_logo.jpg",
+      "collections": "team",
+      "downloadable": true,
+      "size": 237000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Corinthians Mundial",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians_mundial.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_mundial.jpg",
+      "collections": "team",
+      "downloadable": true,
+      "size": 172000,
+      "copyright": "Free"
+    },
+    {
+      "name": "The Cycle Ends Soon",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/the_cycle_ends_soon.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the_cycle_ends_soon.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 913000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Creta Greece",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/creta_greece.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/creta_greece.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 12178000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Pitbull",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/priest.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/priest.jpg",
+      "collections": "pet",
+      "downloadable": true,
+      "size": 327000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Fuck",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ufck.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ufck.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 874000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Wolf",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wolf.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wolf.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 874000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Space Stars",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/space_stars.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/space_stars.jpg",
+      "collections": "space",
+      "downloadable": true,
+      "size": 4454000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Nature",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/nature.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/nature.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 192000,
+      "copyright": "Free"
+    },
+    {
+      "name": "corinthians 18",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians_18_away.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_18_away.jpg",
+      "collections": "team",
+      "downloadable": true,
+      "size": 237000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Iskelet",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/iskelet.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/iskelet.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 461000,
+      "copyright": "Free"
+    },
+    {
+      "name": "New York City",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/new_york_city.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/new_york_city.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 654000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Space",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/space.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/space.jpg",
+      "collections": "space",
+      "downloadable": true,
+      "size": 654000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Xiaomi",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/xiaomi.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/xiaomi.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 2458000,
+      "copyright": "Free"
+    },
+    {
+      "name": "GTR",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/gtr.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/gtr.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 710000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Matrix",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/matrix.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/matrix.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 805000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Black Sky",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/sky_black.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/sky_black.jpg",
+      "collections": "nature,space",
+      "downloadable": true,
+      "size": 650000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Fall",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/fall.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/fall.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 1001000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Fire",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/fire.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/fire.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 494000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Brick Wall",
+      "author": "Nathan Dumlao",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/brick-wall.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/brick-wall.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 2085000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Cup Coffee",
+      "author": "Nathan Dumlao",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CupCoffee.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CupCoffee.jpg",
+      "collections": "food",
+      "downloadable": true,
+      "size": 2172000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Worship",
+      "author": "Ron Smith",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Worship.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Worship.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 3399000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Text Code",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TextCode.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TextCode.jpg",
+      "collections": "technology",
+      "downloadable": true,
+      "size": 1232000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Hearts",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hearts.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hearts.jpg",
+      "collections": "love",
+      "downloadable": true,
+      "size": 2569000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Sparkler",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Sparkler.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Sparkler.jpg",
+      "collections": "happy",
+      "downloadable": true,
+      "size": 1618000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Cityscape and traffic light trails",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Cityscape.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Cityscape.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 4002000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Brooklyn Nights",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BrooklynNights.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BrooklynNights.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 1188000,
+      "copyright": "Free"
+    },
     
+    {
+      "name": "São Paulo 2018",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/sao_paulo_2018.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/sao_paulo_2018.jpg",
+      "collections": "team",
+      "downloadable": true,
+      "size": 237000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Rain",
+      "author": "Ricky Kharawala",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Rain.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Rain.jpg",
+      "collections": "landscapes",
+      "downloadable": true,
+      "size": 2661000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Door to happiness!",
+      "author": "Greg Tockner",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Doortohappiness.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Doortohappiness.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 1573000,
+      "copyright": "Free"
+    },
+    {
+      "name": "London, United Kingdom",
+      "author": "Greg Tockner",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1534939994634.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1534939994634.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 1257000,
+      "copyright": "Free"
+    },
     {
       "name": "Instagram Sunset",
       "author": "Sánchez Noskov",
