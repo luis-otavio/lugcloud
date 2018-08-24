@@ -94,6 +94,16 @@
   ],
   "Wallpapers": [
     {
+      "name": "Gamer",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/gamer.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/gamer.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 1615000,
+      "copyright": "Free"
+    },
+    {
       "name": "FC Barcelona",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/fcb.jpg",
