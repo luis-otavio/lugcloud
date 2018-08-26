@@ -89,10 +89,86 @@
       "name": "Team",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians_mundial.jpg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_mundial.jpg"
+    },
+    {
+      "name": "Film",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/venom_movie.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/venom_movie.jpg"
     }
-  
+    
   ],
   "Wallpapers": [
+    
+    {
+      "name": "Scutox",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/scutox.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/scutox.jpg",
+      "collections": "film",
+      "downloadable": true,
+      "size": 35600,
+      "copyright": "Free"
+    },
+    {
+      "name": "Marshmello",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/marshmello.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/marshmello.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 35600,
+      "copyright": "Free"
+    },
+    {
+      "name": "Wet Road",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wet_road.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wet_road.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 1100000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Venom Movie",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/venom_movie.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/venom_movie.jpg",
+      "collections": "film",
+      "downloadable": true,
+      "size": 2600000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Modern (a)symmetry",
+      "author": "Tan Kaninthanond",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Modernasymmetry.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Modernasymmetry.jpg",
+      "collections": "abstract",
+      "downloadable": true,
+      "size": 2576000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Lost in Thailand",
+      "author": "Tan Kaninthanond",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/LostinThailand.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/LostinThailand.jpg",
+      "collections": "city",
+      "downloadable": true,
+      "size": 2375000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Heart Burn",
+      "author": "Casey Horner",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/HeartBurn.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/HeartBurn.jpg",
+      "collections": "nature,landscapes",
+      "downloadable": true,
+      "size": 1285090,
+      "copyright": "Free"
+    },
     {
       "name": "Gamer",
       "author": "",
