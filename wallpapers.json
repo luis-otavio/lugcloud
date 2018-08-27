@@ -98,7 +98,16 @@
     
   ],
   "Wallpapers": [
-    
+    {
+      "name": "The Meg",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/the_meg.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the_meg.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 35600,
+      "copyright": "Free"
+    },
     {
       "name": "Scutox",
       "author": "",
