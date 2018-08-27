@@ -89,10 +89,126 @@
       "name": "Team",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians_mundial.jpg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_mundial.jpg"
+    },
+    {
+      "name": "4K",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/spiderman_ps4.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/spiderman_ps4.jpg"
     }
   
   ],
   "Wallpapers": [
+    
+    {
+      "name": "Homer Donuts",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/homer_donuts.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/homer_donuts.jpg",
+      "collections": "entretainment,4k",
+      "downloadable": true,
+      "size": 897000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Flamengo",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/flamengo.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/flamengo.jpg",
+      "collections": "team",
+      "downloadable": true,
+      "size": 897000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Julius Humor",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/julius_humor.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/julius_humor.jpg",
+      "collections": "entretainment,4k",
+      "downloadable": true,
+      "size": 148000,
+      "copyright": "Free"
+    },
+    {
+      "name": "PUBG Illustration",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/pubg_illustration.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/pubg_illustration.jpg",
+      "collections": "entretainment,4k",
+      "downloadable": true,
+      "size": 961000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Soldier",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/soldier.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/soldier.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 624000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Spiderman PS4",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/spiderman_ps4.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/spiderman_ps4.jpg",
+      "collections": "entretainment,4k",
+      "downloadable": true,
+      "size": 3479000,
+      "copyright": "Free"
+    },
+    {
+      "name": "AR-15 Wallpaper",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ar-15_wallpaper.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ar-15_wallpaper.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 2682000,
+      "copyright": "Free"
+    },
+    {
+      "name": "The King",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/the_king.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the_king.jpg",
+      "collections": "",
+      "downloadable": true,
+      "size": 686000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Space Earth",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/space_earth.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/space_earth.jpg",
+      "collections": "space",
+      "downloadable": true,
+      "size": 320000,
+      "copyright": "Free"
+    },
+    {
+      "name": "BMW",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/bmw.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/bmw.jpg",
+      "collections": "cars",
+      "downloadable": true,
+      "size": 385000,
+      "copyright": "Free"
+    },
+    {
+      "name": "GTA 5",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/gta_5.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/gta_5.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 341000,
+      "copyright": "Free"
+    },
     {
       "name": "Gamer",
       "author": "",
@@ -304,7 +420,7 @@
       "copyright": "Free"
     },
     {
-      "name": "corinthians 18",
+      "name": "Corinthians 18",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians_18_away.jpg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_18_away.jpg",
@@ -438,7 +554,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TextCode.jpg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TextCode.jpg",
-      "collections": "technology",
+      "collections": "technology,4k",
       "downloadable": true,
       "size": 1232000,
       "copyright": "Free"
