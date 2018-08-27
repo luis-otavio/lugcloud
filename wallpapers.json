@@ -100,6 +100,36 @@
   "Wallpapers": [
     
     {
+      "name": "The Glowing Matterhorn",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TheGlowingMatterhorn.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TheGlowingMatterhorn.jpg",
+      "collections": "nature,landscapes,4k",
+      "downloadable": true,
+      "size": 1518000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Google",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/google.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/google.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 140000,
+      "copyright": "Free"
+    },
+    {
+      "name": "Assassins Creed",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/assassins_creed.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/assassins_creed.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 658000,
+      "copyright": "Free"
+    },
+    {
       "name": "Homer Donuts",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/homer_donuts.jpg",
