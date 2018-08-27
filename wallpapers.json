@@ -91,13 +91,24 @@
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_mundial.jpg"
     },
     {
-      "name": "Film",
+      "name": "Films",
       "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/venom_movie.jpg",
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/venom_movie.jpg"
     }
     
   ],
   "Wallpapers": [
+    
+    {
+      "name": "Nature Landscape",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/nature_landscape.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/nature_landscape.jpg",
+      "collections": "nature,landscapes",
+      "downloadable": true,
+      "size": 429400,
+      "copyright": "Free"
+    },
     {
       "name": "The Meg",
       "author": "",
@@ -105,7 +116,7 @@
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the_meg.jpg",
       "collections": "",
       "downloadable": true,
-      "size": 35600,
+      "size": 429400,
       "copyright": "Free"
     },
     {
@@ -113,9 +124,9 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/scutox.jpg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/scutox.jpg",
-      "collections": "film",
+      "collections": "films",
       "downloadable": true,
-      "size": 35600,
+      "size": 353500,
       "copyright": "Free"
     },
     {
@@ -143,7 +154,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/venom_movie.jpg",
       "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/venom_movie.jpg",
-      "collections": "film",
+      "collections": "films",
       "downloadable": true,
       "size": 2600000,
       "copyright": "Free"
