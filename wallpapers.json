@@ -91,11 +91,16 @@
       "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_mundial.jpg"
     },
     {
+      "name": "Films",
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/venom_movie.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/venom_movie.jpg"
+    },
+    {
       "name": "4K",
-      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/spiderman_ps4.jpg",
-      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/spiderman_ps4.jpg"
+      "preview_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/venom_movie.jpg",
+      "preview_thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/venom_movie.jpg"
     }
-  
+    
   ],
   "Wallpapers": [
     
