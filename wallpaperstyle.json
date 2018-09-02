@@ -1,0 +1,1572 @@
+{
+  "Categories": [
+    {
+      "name": "Landscapes"
+    },
+    {
+      "name": "City"
+    },
+    {
+      "name": "People"
+    },
+    {
+      "name": "Nature"
+    },
+    {
+      "name": "Cars"
+    },
+    {
+      "name": "Food"
+    },
+    {
+      "name": "Abstract"
+   },
+    {
+      "name": "Pets"
+    },
+    {
+      "name": "Entretainment"
+    },
+    {
+      "name": "Terror"
+    },
+    {
+      "name": "Animes"
+    },
+    {
+      "name": "Material"
+    },
+    {
+      "name": "Space"
+   },
+    {
+      "name": "Technology"
+    },
+    {
+      "name": "Android Pie"
+    },
+    {
+      "name": "Happy"
+    },
+    {
+      "name": "Love"
+    },
+    {
+      "name": "Team"
+    },
+    {
+      "name": "Films"
+   }
+    
+  ],
+  "Wallpapers": [
+    
+    {
+      "name": "Nature Landscape",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/nature_landscape.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/nature_landscape.jpg",
+      "category": "nature,landscapes",
+      "size": 429400
+    },
+    {
+      "name": "The Meg",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/the_meg.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the_meg.jpg",
+      "category": "",
+      "size": 429400
+    },
+    {
+      "name": "Scutox",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/scutox.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/scutox.jpg",
+      "category": "films",
+      "size": 353500
+    },
+    {
+      "name": "Marshmello",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/marshmello.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/marshmello.jpg",
+      "category": "entretainment",
+      "size": 35600
+    },
+    {
+      "name": "Wet Road",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wet_road.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wet_road.jpg",
+      "category": "nature",
+      "size": 1100000
+    },
+    {
+      "name": "Venom Movie",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/venom_movie.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/venom_movie.jpg",
+      "category": "films",
+      "size": 2600000
+    },
+    {
+      "name": "Modern (a)symmetry",
+      "author": "Tan Kaninthanond",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Modernasymmetry.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Modernasymmetry.jpg",
+      "category": "abstract",
+      "size": 2576000
+    },
+    {
+      "name": "Lost in Thailand",
+      "author": "Tan Kaninthanond",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/LostinThailand.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/LostinThailand.jpg",
+      "category": "city",
+      "size": 2375000
+    },
+    {
+      "name": "Heart Burn",
+      "author": "Casey Horner",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/HeartBurn.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/HeartBurn.jpg",
+      "category": "nature,landscapes",
+      "size": 1285090
+    },
+    {
+      "name": "Gamer",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/gamer.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/gamer.jpg",
+      "category": "entretainment",
+      "size": 1615000
+    },
+    {
+      "name": "FC Barcelona",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/fcb.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/fcb.jpg",
+      "category": "team",
+      "size": 751000
+    },
+    {
+      "name": "PSG 2018-2019",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/psg_2018-2019.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/psg_2018-2019.jpg",
+      "category": "team",
+      "size": 179000
+    },
+    {
+      "name": "Joker",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/joker.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/joker.jpg",
+      "category": "entretainment",
+      "size": 775000
+    },
+    {
+      "name": "Circuit",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/circuit.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/circuit.jpg",
+      "category": "technology",
+      "size": 587000
+    },
+    {
+      "name": "Dog",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/dog.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/dog.jpg",
+      "category": "pet",
+      "size": 624000
+    },
+    {
+      "name": "Muscle Car",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/muscle_car.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/muscle_car.jpg",
+      "category": "cars",
+      "size": 171000
+    },
+    {
+      "name": "Kakashi",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/kakashi.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/kakashi.jpg",
+      "category": "animes",
+      "size": 187000
+    },
+    {
+      "name": "Weed",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/weed.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/weed.jpg",
+      "category": "",
+      "size": 270000
+    },
+    {
+      "name": "Earth",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/earth.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/earth.jpg",
+      "category": "space",
+      "size": 1937000
+    },
+    {
+      "name": "Goku Forms",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/goku_forms.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/goku_forms.jpg",
+      "category": "animes",
+      "size": 705000
+    },
+    {
+      "name": "Lazy Day",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/lazy_day.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/lazy_day.jpg",
+      "category": "",
+      "size": 1157000
+    },
+    {
+      "name": "Juventus Logo",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/juventus_logo.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/juventus_logo.jpg",
+      "category": "team",
+      "size": 237000
+    },
+    {
+      "name": "Corinthians Mundial",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians_mundial.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_mundial.jpg",
+      "category": "team",
+      "size": 172000
+    },
+    {
+      "name": "The Cycle Ends Soon",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/the_cycle_ends_soon.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the_cycle_ends_soon.jpg",
+      "category": "entretainment",
+      "size": 913000
+       
+    },
+    {
+      "name": "Creta Greece",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/creta_greece.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/creta_greece.jpg",
+      "category": "nature",
+      "size": 12178000
+       
+    },
+    {
+      "name": "Pitbull",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/priest.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/priest.jpg",
+      "category": "pet",
+      "size": 327000
+       
+    },
+    {
+      "name": "Fuck",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ufck.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ufck.jpg",
+      "category": "entretainment",
+      "size": 874000
+       
+    },
+    {
+      "name": "Wolf",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wolf.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wolf.jpg",
+      "category": "",
+      "size": 874000
+       
+    },
+    {
+      "name": "Space Stars",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/space_stars.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/space_stars.jpg",
+      "category": "space",
+      "size": 4454000
+       
+    },
+    {
+      "name": "Nature",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/nature.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/nature.jpg",
+      "category": "nature",
+      "size": 192000
+       
+    },
+    {
+      "name": "corinthians 18",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians_18_away.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians_18_away.jpg",
+      "category": "team",
+      "size": 237000
+       
+    },
+    {
+      "name": "Iskelet",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/iskelet.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/iskelet.jpg",
+      "category": "entretainment",
+      "size": 461000
+       
+    },
+    {
+      "name": "New York City",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/new_york_city.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/new_york_city.jpg",
+      "category": "city",
+      "size": 654000
+       
+    },
+    {
+      "name": "Space",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/space.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/space.jpg",
+      "category": "space",
+      "size": 654000
+       
+    },
+    {
+      "name": "Xiaomi",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/xiaomi.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/xiaomi.jpg",
+      "category": "nature",
+      "size": 2458000
+       
+    },
+    {
+      "name": "GTR",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/gtr.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/gtr.jpg",
+      "category": "cars",
+      "size": 710000
+       
+    },
+    {
+      "name": "Matrix",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/matrix.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/matrix.jpg",
+      "category": "entretainment",
+      "size": 805000
+       
+    },
+    {
+      "name": "Black Sky",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/sky_black.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/sky_black.jpg",
+      "category": "nature,space",
+      "size": 650000
+       
+    },
+    {
+      "name": "Fall",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/fall.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/fall.jpg",
+      "category": "city",
+      "size": 1001000
+       
+    },
+    {
+      "name": "Fire",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/fire.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/fire.jpg",
+      "category": "nature",
+      "size": 494000
+       
+    },
+    {
+      "name": "Brick Wall",
+      "author": "Nathan Dumlao",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/brick-wall.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/brick-wall.jpg",
+      "category": "",
+      "size": 2085000
+       
+    },
+    {
+      "name": "Cup Coffee",
+      "author": "Nathan Dumlao",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CupCoffee.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CupCoffee.jpg",
+      "category": "food",
+      "size": 2172000
+       
+    },
+    {
+      "name": "Worship",
+      "author": "Ron Smith",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Worship.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Worship.jpg",
+      "category": "",
+      "size": 3399000
+       
+    },
+    {
+      "name": "Text Code",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TextCode.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TextCode.jpg",
+      "category": "technology",
+      "size": 1232000
+       
+    },
+    {
+      "name": "Hearts",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hearts.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hearts.jpg",
+      "category": "love",
+      "size": 2569000
+       
+    },
+    {
+      "name": "Sparkler",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Sparkler.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Sparkler.jpg",
+      "category": "happy",
+      "size": 1618000
+       
+    },
+    {
+      "name": "Cityscape and traffic light trails",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Cityscape.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Cityscape.jpg",
+      "category": "city",
+      "size": 4002000
+       
+    },
+    {
+      "name": "Brooklyn Nights",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BrooklynNights.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BrooklynNights.jpg",
+      "category": "city",
+      "size": 1188000
+       
+    },
+    
+    {
+      "name": "São Paulo 2018",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/sao_paulo_2018.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/sao_paulo_2018.jpg",
+      "category": "team",
+      "size": 237000
+       
+    },
+    {
+      "name": "Rain",
+      "author": "Ricky Kharawala",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Rain.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Rain.jpg",
+      "category": "landscapes",
+      "size": 2661000
+       
+    },
+    {
+      "name": "Door to happiness!",
+      "author": "Greg Tockner",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Doortohappiness.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Doortohappiness.jpg",
+      "category": "cars",
+      "size": 1573000
+       
+    },
+    {
+      "name": "London, United Kingdom",
+      "author": "Greg Tockner",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1534939994634.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1534939994634.jpg",
+      "category": "",
+      "size": 1257000
+       
+    },
+    {
+      "name": "Instagram Sunset",
+      "author": "Sánchez Noskov",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/InstagramSunset.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/InstagramSunset.jpg",
+      "category": "nature",
+      "size": 1881000
+       
+    },
+    {
+      "name": "Landscape Nature",
+      "author": "Redd Angelo",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Clocked.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Clocked.jpg",
+      "category": "nature,landscapes",
+      "size": 1362000
+       
+    },
+    {
+      "name": "Open Road",
+      "author": "Rory Hennessey",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OpenRoad.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OpenRoad.jpg",
+      "category": "nature",
+      "size": 1908000
+       
+    },
+    {
+      "name": "Into The Night",
+      "author": "Mado El Khouly",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/IntoTheNight.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/IntoTheNight.jpg",
+      "category": "nature",
+      "size": 1908000
+       
+    },
+    {
+      "name": "Invert",
+      "author": "Jan Traid",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Invert.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Invert.jpg",
+      "category": "nature,people",
+      "size": 3316000
+       
+    },
+    {
+      "name": "Seljalandsfoss, Iceland",
+      "author": "Alex Lopez",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Seljalandsfoss.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Seljalandsfoss.jpg",
+      "category": "nature",
+      "size": 1317000
+       
+    },
+    {
+      "name": "Chinatown",
+      "author": "Mauricio Chavez",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Chinatown.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Chinatown.jpg",
+      "category": "city",
+      "size": 3689000
+       
+    },
+    {
+      "name": "All Rise",
+      "author": "Ian Dooley",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AllRise.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AllRise.jpg",
+      "category": "",
+      "size": 727000
+       
+    },
+    {
+      "name": "Forest",
+      "author": "Marcelo Vaz",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MontainTree.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MontainTree.jpg",
+      "category": "nature",
+      "size": 1396000
+       
+    },
+    {
+      "name": "Boat Mountain",
+      "author": "Pietro De Grandi",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BoatMontain.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BoatMontain.jpg",
+      "category": "nature",
+      "size": 2755000
+       
+    },
+    {
+      "name": "Manhattan, New York, United States",
+      "author": "Malte Schmidt",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Manhattan.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Manhattan.jpg",
+      "category": "city",
+      "size": 1476000
+       
+    },
+    {
+      "name": "Milky Way above a broken road",
+      "author": "Adrian Pelletier",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/brokenroad.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/brokenroad.jpg",
+      "category": "nature,space",
+      "size": 4032000
+       
+    },
+    {
+      "name": "Simple Coloured Background",
+      "author": "Andrej Lišakov",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SimpleColouredBackground.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SimpleColouredBackground.jpg",
+      "category": "abstract",
+      "size": 2001000
+       
+    },
+    {
+      "name": "The Palms",
+      "author": "Xavier Coiffic",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ThePalms.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ThePalms.jpg",
+      "category": "nature",
+      "size": 2809000
+       
+    },
+    {
+      "name": "Mountain Sky",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MountainSky.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainSky.jpg",
+      "category": "nature,space",
+      "size": 2850000
+       
+    },
+    {
+      "name": "Banff, Canada",
+      "author": "Neil Rosenstech",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BanffCanada.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BanffCanada.jpg",
+      "category": "nature",
+      "size": 16667000
+       
+    },
+    {
+      "name": "High Roller",
+      "author": "Campbell Boulanger",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/HighRoller.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/HighRoller.jpg",
+      "category": "cars",
+      "size": 1143000
+       
+    },
+    {
+      "name": "Car Wallpaper",
+      "author": "John Matychuk",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/car2.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/car2.jpg",
+      "category": "cars",
+      "size": 3031000
+       
+    },
+    {
+      "name": "Same ole",
+      "author": "Alex Iby",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Sameole.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Sameole.jpg",
+      "category": "cars",
+      "size": 1641000
+       
+    },
+    {
+      "name": "Purple Rain",
+      "author": "Tom Roberts",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/PurpleRain.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/PurpleRain.jpg",
+      "category": "people",
+      "size": 904000
+       
+    },
+    {
+      "name": "Blue Magic",
+      "author": "Tom Roberts",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlueMagic.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlueMagic.jpg",
+      "category": "people",
+      "size": 1231000
+       
+    },
+    {
+      "name": "Android Pie 1",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-1.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-1.jpg",
+      "category": "android pie",
+      "size": 7101000
+    },
+    {
+      "name": "Android Pie 2",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-2.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-2.jpg",
+      "category": "android pie",
+      "size": 3174000
+    },
+    {
+      "name": "Android Pie 3",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-3.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-3.jpg",
+      "category": "android pie",
+      "size": 7033000
+    },
+    {
+      "name": "Android Pie 4",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-4.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-4.jpg",
+      "category": "android pie",
+      "size": 2573000
+    },
+    {
+      "name": "Android Pie 5",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-5.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-5.jpg",
+      "category": "android pie",
+      "size": 3355000
+    }, 
+    {
+      "name": "Android Pie 6",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-6.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-6.jpg",
+      "category": "android pie",
+      "size": 915000
+    }, 
+    {
+      "name": "Android Pie 7",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-7.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-7.jpg",
+      "category": "android pie",
+      "size": 1068000
+    }, 
+    {
+      "name": "Android Pie 8",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-8.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-8.jpg",
+      "category": "android pie",
+      "size": 3211000
+    }, 
+    {
+      "name": "Android Pie 9",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-9.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-9.jpg",
+      "category": "android pie",
+      "size": 2157000
+    }, 
+    {
+      "name": "Android Pie 10",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-10.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-10.jpg",
+      "category": "android pie",
+      "size": 1388000
+    }, 
+    {
+      "name": "Android Pie 11",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-11.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-11.jpg",
+      "category": "android pie",
+      "size": 2037000
+    }, 
+    {
+      "name": "Android Pie 12",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-12.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-12.jpg",
+      "category": "android pie",
+      "size": 1862000
+    }, 
+    {
+      "name": "Android Pie 13",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-13.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-13.jpg",
+      "category": "android pie",
+      "size": 2633000
+    }, 
+    {
+      "name": "Android Pie 14",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-14.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-14.jpg",
+      "category": "android pie",
+      "size": 378000
+    }, 
+    {
+      "name": "Android Pie 15",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-15.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-15.jpg",
+      "category": "android pie",
+      "size": 406000
+    }, 
+    {
+      "name": "Android Pie 16",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-16.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-16.jpg",
+      "category": "android pie",
+      "size": 524000
+    }, 
+    {
+      "name": "Android Pie 17",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-17.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-17.jpg",
+      "category": "android pie",
+      "size": 292000
+    }, 
+    {
+      "name": "Android Pie 18",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Android-P-18.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Android-P-18.jpg",
+      "category": "android pie",
+      "size": 3565000
+    },
+    {
+      "name": "Car Wallpaper",
+      "author": "Andrei",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/car1.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/car1.jpg",
+      "category": "cars",
+      "size": 98800
+    },
+    {
+      "name": "Car Wallpaper",
+      "author": "Andrei",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/car.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/car.jpg",
+      "category": "cars",
+      "size": 749000
+    },
+    {
+      "name": "Gray triangles on a facade",
+      "author": "Joel Filipe",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Graytriangles.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Graytriangles.jpg",
+      "category": "abstract",
+      "size": 3030000
+    },
+    {
+      "name": "Outside the Oculus World Trade Center",
+      "author": "Gus Moretta",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Outside.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Outside.jpg",
+      "category": "abstract",
+      "size": 4641000
+    },
+    {
+      "name": "Dreamy night",
+      "author": "Olivier Lance",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dreamynight.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dreamynight.jpg",
+      "category": "nature,space",
+      "size": 1615000
+    },
+    {
+      "name": "Teddy",
+      "author": "Joe Caione",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Teddy.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Teddy.jpg",
+      "category": "pet",
+      "size": 1023000
+    },
+    {
+      "name": "Transportation",
+      "author": "rawpixel",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1534411939279.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1534411939279.jpg",
+      "category": "city",
+      "size": 1231000
+    },
+    {
+      "name": "Star reflection",
+      "author": "Johannes Plenio",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Starreflection.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Starreflection.jpg",
+      "category": "nature,space",
+      "size": 474000
+    },
+    {
+      "name": "Ocean Hot",
+      "author": "Ryan Loughlin",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanHot.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanHot.jpeg",
+      "category": "nature",
+      "size": 898200
+    },
+    {
+      "name": "Moody day on the hudson",
+      "author": "Luke Stackpoole",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Moodydayonthehudson.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Moodydayonthehudson.jpg",
+      "category": "city",
+      "size": 4586000
+    }, 
+    {
+      "name": "Welcome Suprise",
+      "author": "Robert Richarz",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/WelcomeSuprise.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/WelcomeSuprise.jpg",
+      "category": "space",
+      "size": 4586000
+    }, 
+    {
+      "name": "Sunset Skyline",
+      "author": "Yeshi Kangrang",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1502375904982.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1502375904982.jpg",
+      "category": "city",
+      "size": 1213000
+    },  
+    {
+      "name": "Flying a drone",
+      "author": "Holger Link",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Flyingadrone.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Flyingadrone.jpg",
+      "category": "technology,city",
+      "size": 495000
+    },  
+    {
+      "name": "Night Sky",
+      "author": "Holger Link",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/NightSky.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/NightSky.jpg",
+      "category": "space,nature",
+      "size": 1252000
+    },  
+    {
+      "name": "San Francisco, United States",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1529370084509.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1529370084509.jpg",
+      "category": "city",
+      "size": 1252000
+    },
+    {
+      "name": "Holbox Island",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/HolboxIsland.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/HolboxIsland.jpg",
+      "category": "nature",
+      "size": 1177000
+    },
+    {
+      "name": "Colorful galaxy",
+      "author": "Jeremy Thomas",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Colorfulgalaxy.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colorfulgalaxy.jpg",
+      "category": "space",
+      "size": 3816000
+    }, 
+    {
+      "name": "Towards the ocean",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Towardstheocean.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Towardstheocean.jpg",
+      "category": "nature",
+      "size": 1413000
+    },
+    {
+      "name": "The Montain",
+      "author": "Zhang Murphy",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TheMontain.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TheMontain.jpg",
+      "category": "nature",
+      "size": 713000
+    },
+    {
+      "name": "Boat",
+      "author": "Christoph von Gellhorn",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Boat.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Boat.jpeg",
+      "category": "nature",
+      "size": 1600000
+    },
+    {
+      "name": "Sunrise at Coogee Beach",
+      "author": "Christoph von Gellhorn",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SunriseatCoogeeBeach.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SunriseatCoogeeBeach.jpeg",
+      "category": "nature",
+      "size": 925700
+    },
+    {
+      "name": "Tre Cime Di Lavaredo",
+      "author": "Damiano Baschiera",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TreCimeDiLavaredo.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreCimeDiLavaredo.jpeg",
+      "category": "nature",
+      "size": 820900
+    },
+    {
+      "name": "Neon city",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Neoncity.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Neoncity.jpeg",
+      "category": "people",
+      "size": 372000
+    },
+    {
+      "name": "Italian gelato at Florence",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ItaliangelatoatFlorence.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ItaliangelatoatFlorence.jpeg",
+      "category": "food",
+      "size": 1400000
+    },
+    {
+      "name": "Empire Sunset",
+      "author": "Chelsea London Phillips",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/EmpireSunset.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/EmpireSunset.jpeg",
+      "category": "city",
+      "size": 1676141
+    },
+    {
+    "name": "Chinatown Moods",
+    "author": "Rye Jessen",
+    "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ChinatownMoods.jpeg",
+    "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ChinatownMoods.jpeg",
+    "category": "cars,city",
+    "size": 1888100
+    },
+    {
+      "name": "Bridge In Nature",
+      "author": "Rye Jessen",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Bridge.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Bridge.jpeg",
+      "category": "nature",
+      "size": 977800
+    },
+    {
+      "name": "Possibilities",
+      "author": "Casey Horner",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Possibilities.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Possibilities.jpeg",
+      "category": "nature",
+      "size": 3684920
+    },
+    {
+      "name": "Nexus",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Nexus.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Nexus.jpg",
+      "category": "nature",
+      "size": 359000
+    },
+    {
+      "name": "Material Design",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Material_Design10939362.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Material_Design10939362.jpg",
+      "category": "material",
+      "size": 359000
+    },
+    {
+      "name": "Material Design",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Material_Design.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Material_Design.jpg",
+      "category": "material",
+      "size": 150000
+    },
+    {
+      "name": "Play Your Polygons",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Play_Your_Polygons.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Play_Your_Polygons.jpg",
+      "category": "material",
+      "size": 359000
+    },
+    {
+      "name": "Ocean Wave",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Ocean_Wave.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Ocean_Wave.jpg",
+      "category": "nature",
+      "size": 799000
+    },
+    {
+      "name": "Lights Road",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Lights_road.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Lights_road.jpg",
+      "category": "city",
+      "size": 393000
+    },
+    {
+      "name": "Street night",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Street_night.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Street_night.jpg",
+      "category": "city",
+      "size": 207000
+    },
+    {
+      "name": "Gamers",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Gamers.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Gamers.jpg",
+      "category": "animes",
+      "size": 990000
+    },
+    {
+      "name": "Donald Duck Silver",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Donald_Duck_Silver.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Donald_Duck_Silver.jpg",
+      "category": "animes",
+      "size": 2030000
+    },
+    {
+      "name": "Dia de los Muertos",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dia_de_los_Muertos.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dia_de_los_Muertos.jpg",
+      "category": "terror",
+      "size": 2850000
+    },
+    {
+      "name": "Dark Souls",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Souls.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Souls.jpg",
+      "category": "entretainment",
+      "size": 828000
+    },
+    {
+      "name": "Dark Link",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Link.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Link.jpg",
+      "category": "entretainment",
+      "size": 308000
+    },
+    {
+      "name": "Dark Grey Neon Yellow",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Grey_Neon_Yellow.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Grey_Neon_Yellow.jpg",
+      "category": "material",
+      "size": 315000
+    },
+    {
+      "name": "Colorful Geometry",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Colorful_Geometry.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colorful_Geometry.jpg",
+      "category": "abstract",
+      "size": 1450000
+    },
+    {
+      "name": "Color Storm",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Color_Storm.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Color_Storm.jpg",
+      "category": "abstract",
+      "size": 954000
+    },
+    {
+      "name": "Cadillac",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Cadillac.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Cadillac.jpg",
+      "category": "cars",
+      "size": 1880000
+    },
+    {
+      "name": "Bubbles",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Bubbles.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Bubbles.jpg",
+      "category": "",
+      "size": 563000
+    },
+    {
+      "name": "Black Bullet",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlackBullet.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlackBullet.jpg",
+      "category": "",
+      "size": 281000
+    },
+    {
+      "name": "Black and red",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Black_and_red.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Black_and_red.jpg",
+      "category": "abstract",
+      "size": 1040000
+    },
+    {
+      "name": "Batman",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Batman.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Batman.jpg",
+      "category": "entretainment",
+      "size": 113000
+    },
+    {
+      "name": "Audi S5",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Audi_S5.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Audi_S5.jpg",
+      "category": "cars",
+      "size": 799000
+    },
+    {
+      "name": "Abstract",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Abstract.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Abstract.jpg",
+      "category": "abstract",
+      "size": 2270000
+    },
+    {
+      "name": "Abstrac tMonuments",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractMonuments-.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractMonuments-.jpg",
+      "category": "abstract,city",
+      "size": 320000
+    },
+    {
+      "name": "Abstract Ghost",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractGhost.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractGhost.jpg",
+      "category": "abstract,terror",
+      "size": 199000
+    },
+    {
+      "name": "City Night",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CityNight.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CityNight.jpg",
+      "category": "city",
+      "size": 4590000
+    },
+    {
+      "name": "Colors Glow",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ColorsGlow.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ColorsGlow.jpg",
+      "category": "abstract",
+      "size": 738000
+    },
+    {
+      "name": "Abstract Clouds",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractClouds.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractClouds.jpg",
+      "category": "abstract",
+      "size": 591000
+    },
+    {
+      "name": "Curved",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Curved.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Curved.jpg",
+      "category": "abstract",
+      "size": 3880000
+    },
+    {
+      "name": "Skulls Colored",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SkullsColored.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SkullsColored.jpeg",
+      "category": "entretainment",
+      "size": 2920000
+    },
+    {
+      "name": "Colors",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Colors.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colors.jpeg",
+      "category": "abstract",
+      "size": 926000
+    },
+    {
+      "name": "Hole",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hole.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hole.jpeg",
+      "category": "abstract",
+      "size": 2940000
+    },
+    {
+      "name": "Pitbull",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Pitbull.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Pitbull.jpeg",
+      "category": "pet",
+      "size": 1750000
+    },
+    {
+      "name": "Mountain Amazing",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MountainAmazing.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainAmazing.jpeg",
+      "category": "entretainment,nature",
+      "size": 3540000
+    },
+    {
+      "name": "Game Over",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GameOver.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GameOver.jpeg",
+      "category": "entretainment",
+      "size": 4140000
+    },
+    {
+      "name": "Tree Red",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TreeRed.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreeRed.jpeg",
+      "category": "nature",
+      "size": 6000000
+    },
+    {
+      "name": "Skull",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Skull.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skull.jpeg",
+      "category": "entretainment",
+      "size": 1590000
+    },
+    {
+      "name": "Vikings",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vikings.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpeg",
+      "category": "entretainment",
+      "size": 434000
+    },
+    {
+      "name": "On the Lookout",
+      "author": "Amogh Manjunath",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OntheLookout.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OntheLookout.jpeg",
+      "category": "city,people",
+      "size": 1100000
+    },
+    {
+      "name": "Porsche Green",
+      "author": "Hayes Potter",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Porsche.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Porsche.jpeg",
+      "category": "cars",
+      "size": 865500
+    },
+    {
+      "name": "Winter Idyll",
+      "author": "Eberhard Grossgasteiger",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/WinterIdyll.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/WinterIdyll.jpeg",
+      "category": "nature",
+      "size": 3200000
+    },
+    {
+      "name": "Fire",
+      "author": "Damon Lam",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Fire.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Fire.jpeg",
+      "category": "",
+      "size": 234300
+    },
+    {
+      "name": "Golden wave",
+      "author": "Daniel Olah",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Goldenwave.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Goldenwave.jpeg",
+      "category": "abstract",
+      "size": 1700000
+    },
+    {
+      "name": "Moon Landing",
+      "author": "Vidar Nordli",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MoonLanding.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MoonLanding.jpeg",
+      "category": "nature,landscapes",
+      "size": 957000
+    },
+    {
+      "name": "Chevrolet Colorado",
+      "author": "Jonathan Gallegos",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ChevroletColorado.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ChevroletColorado.jpeg",
+      "category": "cars",
+      "size": 957000
+    },
+    {
+      "name": "Dog Pet",
+      "author": "Jonathan Daniels",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DogPet.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DogPet.jpeg",
+      "category": "pet",
+      "size": 477300
+    },
+    {
+      "name": "Dog",
+      "author": "Alexandru Rotariu",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dog.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dog.jpeg",
+      "category": "pet",
+      "size": 2500000
+    },
+    {
+      "name": "Lights",
+      "author": "Damon Lam",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/lights.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/lights.jpeg",
+      "category": "abstract",
+      "size": 104400
+    },
+    {
+      "name": "The Vi-bru Shaman",
+      "author": "Judeus Samson",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TheVi-bruShaman.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TheVi-bruShaman.jpeg",
+      "category": "people",
+      "size": 1200000
+    },
+    {
+      "name": "Let me take a selfie",
+      "author": "Dejan Zakic",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Letmetakeaselfie.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Letmetakeaselfie.jpeg",
+      "category": "nature,people",
+      "size": 910400
+    },
+    {
+      "name": "Urban",
+      "author": "chuttersnap",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Urban.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Urban.jpeg",
+      "category": "city",
+      "size": 1100000
+    },
+    {
+      "name": "Treeflection",
+      "author": "Lucas Ludwig",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Treeflection.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Treeflection.jpeg",
+      "category": "nature",
+      "size": 3200000
+    },
+    {
+      "name": "Wall",
+      "author": "KS KYUNG",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Wall.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Wall.jpeg",
+      "category": "abstract",
+      "size": 1200000
+    },
+    {
+      "name": "Destination Adventure",
+      "author": "Matthew Kerslake",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DestinationAdventure.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DestinationAdventure.jpeg",
+      "category": "nature",
+      "size": 2500000
+    },
+    {
+      "name": "Mountains",
+      "author": "Elena Koycheva",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/alp.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/alp.jpeg",
+      "category": "nature",
+      "size": 751800
+    },
+    {
+      "name": "Donuts",
+      "author": "Elena Koycheva",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/donuts.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/donuts.jpeg",
+      "category": "food",
+      "size": 176100
+    },
+    {
+      "name": "Gazing Stars",
+      "author": "Ethan Cull",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Gazing.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Gazing.jpeg",
+      "category": "nature",
+      "size": 1100000
+    },
+    {
+      "name": "'67",
+      "author": "Ethan Cull",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/67.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/67.jpeg",
+      "category": "cars",
+      "size": 279800
+    },
+    {
+      "name": "Williamsburg Bridge",
+      "author": "Zac Ong",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/WilliamsburgBridge.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/WilliamsburgBridge.jpeg",
+      "category": "city",
+      "size": 224000
+    },
+    {
+      "name": "Olmsted Point view of Half Dome",
+      "author": "John Hanusek",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OlmstedPointviewofHalfDome.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OlmstedPointviewofHalfDome.jpeg",
+      "category": "nature,landscapes",
+      "size": 988000
+    },
+    {
+      "name": "Sunrise at Mt. Bromo",
+      "author": "Andy Wright",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SunriseatMtBromo.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SunriseatMtBromo.jpeg",
+      "category": "",
+      "size": 101300
+    },
+    {
+      "name": "Old School",
+      "author": "Alberto Cocchi",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OldSchool.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OldSchool.jpeg",
+      "category": "cars",
+      "size": 460900
+    },
+    {
+      "name": "Black Streets",
+      "author": "Alex Iby",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlackStreets.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlackStreets.jpeg",
+      "category": "city",
+      "size": 759100
+    },
+    {
+      "name": "Feel Life in your veins",
+      "author": "Elijah Hiett",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/FeelLifeinyourveins.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/FeelLifeinyourveins.jpeg",
+      "category": "nature,people",
+      "size": 659000
+    }
+  ]
+}
