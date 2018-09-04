@@ -1570,10 +1570,17 @@
     },
     {
       "name": "Golden Gate Bridge Sunset",
-      "author": "Elijah Hiett",
+      "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GoldenGateBridgeSunset.jpeg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GoldenGateBridgeSunset.jpeg",
       "category": "nature"
+    },
+    {
+      "name": "Marshmello",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/marshmello-1.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/marshmello-1.jpg",
+      "category": "entretainment"
     }
   ]
 }
