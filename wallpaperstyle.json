@@ -1584,6 +1584,48 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/marshmello-1.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/marshmello-1.jpg",
       "category": "entretainment"
+    },
+    {
+      "name": "Bangkok",
+      "author": "Joshua Rawson-Harris",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Bangkok.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Bangkok.jpg",
+      "category": "city"
+    },
+    {
+      "name": "Blue Hour",
+      "author": "Paige Weber",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlueHour.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlueHour.jpg",
+      "category": "nature"
+    },
+    {
+      "name": "Clouds out West",
+      "author": "Andrew Ruiz",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CloudsoutWest.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CloudsoutWest.jpg",
+      "category": "nature"
+    },
+    {
+      "name": "Gortt",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/gortt.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/gortt.jpg",
+      "category": "entretainment"
+    },
+    {
+      "name": "Master Roshi",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/master_roshi.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/master_roshi.jpg",
+      "category": "entretainment"
+    },
+    {
+      "name": "Red Moon.jpg",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/note_9_-_red_moon.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/note_9_-_red_moon.jpg",
+      "category": "nature"
     }
   ]
 }

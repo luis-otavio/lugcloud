@@ -103,7 +103,36 @@
     
   ],
   "Wallpapers": [
-    
+    {
+      "name": "Corinthians",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/corinthians.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/corinthians.jpg",
+      "collections": "team",
+      "downloadable": true,
+      "size": 215000,
+      "copyright": "Free"
+    },
+    {
+      "name": "La Casa De Papel",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/la_casa_de_papel.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/la_casa_de_papel.jpg",
+      "collections": "entretainment",
+      "downloadable": true,
+      "size": 239000,
+      "copyright": "Free"
+    },
+    {
+      "name": "In Nature",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1502943693086.jpg",
+      "thumbnail_url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1502943693086.jpg",
+      "collections": "nature",
+      "downloadable": true,
+      "size": 3746000,
+      "copyright": "Free"
+    },
     {
       "name": "The Glowing Matterhorn",
       "author": "",
