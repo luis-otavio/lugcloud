@@ -1567,6 +1567,13 @@
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/FeelLifeinyourveins.jpeg",
       "category": "nature,people",
       "size": 659000
+    },
+    {
+      "name": "Feel Life in your veins",
+      "author": "Elijah Hiett",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GoldenGateBridgeSunset.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GoldenGateBridgeSunset.jpeg",
+      "category": "nature"
     }
   ]
 }
