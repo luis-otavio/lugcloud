@@ -56,7 +56,10 @@
     },
     {
       "name": "Films"
-   }
+    },
+    {
+      "name": "4K"
+    }
     
   ],
   "Wallpapers": [
@@ -1573,7 +1576,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GoldenGateBridgeSunset.jpeg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GoldenGateBridgeSunset.jpeg",
-      "category": "nature"
+      "category": "nature,4k"
     },
     {
       "name": "Marshmello",
