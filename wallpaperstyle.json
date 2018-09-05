@@ -59,6 +59,9 @@
     },
     {
       "name": "4K"
+    },
+    {
+      "name": "Flowers"
     }
     
   ],
@@ -1626,6 +1629,48 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/note_9_-_red_moon.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/note_9_-_red_moon.jpg",
       "category": "nature"
+    },
+    {
+      "name": "Star Painting",
+      "author": "Lucas Ludwig",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Starpainting.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Starpainting.jpg",
+      "category": "nature,space"
+    },
+    {
+      "name": "Coffee and Flowers",
+      "author": "Jessica S. Irvin",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Coffeeandflorals.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Coffeeandflorals.jpg",
+      "category": "flowers"
+    },
+    {
+      "name": "Skateboard",
+      "author": "Freestocks",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Skateboard.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skateboard.jpg",
+      "category": "people"
+    },
+    {
+      "name": "Dreamy Night In Bali",
+      "author": "Aron",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DreamyNightInBali.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DreamyNightInBali.jpg",
+      "category": "nature,landscapes"
+    },
+    {
+      "name": "Leaping",
+      "author": "Aron",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Leaping.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Leaping.jpg",
+      "category": "people"
+    },
+    {
+      "name": "Aston",
+      "author": "James Sullivan",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Aston.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Aston.jpg",
+      "category": "cars"
     }
   ]
 }
