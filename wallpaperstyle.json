@@ -1671,6 +1671,13 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Aston.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Aston.jpg",
       "category": "cars"
+    },
+    {
+      "name": "Nature",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/nature-1.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/nature-1.jpg",
+      "category": "cars"
     }
   ]
 }
