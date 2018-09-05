@@ -1624,13 +1624,6 @@
       "category": "entretainment"
     },
     {
-      "name": "Red Moon",
-      "author": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/note_9_-_red_moon.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/note_9_-_red_moon.jpg",
-      "category": "nature"
-    },
-    {
       "name": "Star Painting",
       "author": "Lucas Ludwig",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Starpainting.jpg",
@@ -1677,7 +1670,105 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/nature-1.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/nature-1.jpg",
-      "category": "cars"
+      "category": "nature"
+    },
+    {
+      "name": "Gece Kurt",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/gece_kurt.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/gece_kurt.jpg",
+      "category": ""
+    },
+    {
+      "name": "Space Planets",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/space_planets.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/space_planets.jpg",
+      "category": "space"
+    },
+    {
+      "name": "Mexican",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo4929488086681888741.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo4929488086681888741.jpg",
+      "category": ""
+    },
+    {
+      "name": "Citien",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo4927396609407428620.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo4927396609407428620.jpg",
+      "category": "city"
+    },
+    {
+      "name": "India",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo4927396609407428618.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo4927396609407428618.jpg",
+      "category": ""
+    },
+    {
+      "name": "Space Moon",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo4927396609407428614.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo4927396609407428614.jpg",
+      "category": ""
+    },
+    {
+      "name": "Neon Lights",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo4927396609407428613.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo4927396609407428613.jpg",
+      "category": ""
+    },
+    {
+      "name": "King Lion",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo4927042489353873421.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo4927042489353873421.jpg",
+      "category": ""
+    },
+    {
+      "name": "Messi",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/messi.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/messi.jpg",
+      "category": "team"
+    },
+    {
+      "name": "Kittens",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/kittens.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/kittens.jpg",
+      "category": ""
+    },
+    {
+      "name": "Bart Is Hype",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/kittebart_is_hypens.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/bart_is_hype.jpg",
+      "category": "animes"
+    },
+    {
+      "name": "Bart Is Hype",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/kittebart_is_hypens.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/bart_is_hype.jpg",
+      "category": "animes"
+    },
+    {
+      "name": "4k Full HD",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/4k_fulhd.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/4k_fulhd.jpg",
+      "category": "4k"
+    },
+    {
+      "name": "Red Moon",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/note_9_-_red_moon.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/note_9_-_red_moon.jpg",
+      "category": "nature"
     }
   ]
 }
