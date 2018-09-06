@@ -184,7 +184,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/dog.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/dog.jpg",
-      "category": "pet",
+      "category": "pets",
       "size": 624000
     },
     {
@@ -274,7 +274,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/priest.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/priest.jpg",
-      "category": "pet",
+      "category": "pets",
       "size": 327000
        
     },
@@ -891,7 +891,7 @@
       "author": "Joe Caione",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Teddy.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Teddy.jpg",
-      "category": "pet",
+      "category": "pets",
       "size": 1023000
     },
     {
@@ -1298,7 +1298,7 @@
       "name": "Skulls Colored",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SkullsColored.jpeg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SkullsColored.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SkullsColored.jpg",
       "category": "entretainment",
       "size": 2920000
     },
@@ -1306,7 +1306,7 @@
       "name": "Colors",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Colors.jpeg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colors.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Colors.jpg",
       "category": "abstract",
       "size": 926000
     },
@@ -1314,7 +1314,7 @@
       "name": "Hole",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hole.jpeg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hole.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hole.jpg",
       "category": "abstract",
       "size": 2940000
     },
@@ -1323,22 +1323,22 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Pitbull.jpeg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Pitbull.jpeg",
-      "category": "pet",
+      "category": "pets",
       "size": 1750000
     },
     {
       "name": "Mountain Amazing",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MountainAmazing.jpeg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainAmazing.jpeg",
-      "category": "entretainment,nature",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainAmazing.jg",
+      "category": "nature",
       "size": 3540000
     },
     {
       "name": "Game Over",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GameOver.jpeg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GameOver.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GameOver.jpg",
       "category": "entretainment",
       "size": 4140000
     },
@@ -1346,7 +1346,7 @@
       "name": "Tree Red",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/TreeRed.jpeg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreeRed.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/TreeRed.jpg",
       "category": "nature",
       "size": 6000000
     },
@@ -1354,7 +1354,7 @@
       "name": "Skull",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Skull.jpeg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skull.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skull.jpg",
       "category": "entretainment",
       "size": 1590000
     },
@@ -1362,7 +1362,7 @@
       "name": "Vikings",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vikings.jpeg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vikings.jpg",
       "category": "entretainment",
       "size": 434000
     },
@@ -1427,7 +1427,7 @@
       "author": "Jonathan Daniels",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DogPet.jpeg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DogPet.jpeg",
-      "category": "pet",
+      "category": "pets",
       "size": 477300
     },
     {
