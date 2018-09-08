@@ -4,6 +4,9 @@
       "name": "Landscapes"
     },
     {
+      "name": "Amazing"    
+    },
+    {
       "name": "City"
     },
     {
@@ -1322,7 +1325,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MountainAmazing.jpeg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainAmazing.jpg",
-      "category": "nature",
+      "category": "amazing",
       "size": 3540000
     },
     {
@@ -1605,7 +1608,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/gortt.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/gortt.jpg",
-      "category": "entretainment"
+      "category": "terror"
     },
     {
       "name": "Master Roshi",
@@ -1760,6 +1763,223 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/note_9_-_red_moon.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/note_9_-_red_moon.jpg",
       "category": "nature"
+    },
+    {
+      "name": "Darth Vader",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DarthVader.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DarthVader.png",
+      "category": "animes"
+    },
+    {
+      "name": "Nature Sunset",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/NatureSunset.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/NatureSunset.png",
+      "category": "nature"
+    },
+    {
+      "name": "Sky Night",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SkyNight.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SkyNight.jpg",
+      "category": "nature,space"
+    },
+    {
+      "name": "Palafitte",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SeaPalafitte.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SeaPalafitte.jpg",
+      "category": "nature"
+    },
+    {
+      "name": "Colorful Sky",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ColorfulSky.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ColorfulSky.jpg",
+      "category": ""
+    },
+    {
+      "name": "Volcano",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Volcano.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Volcano.jpg",
+      "category": "landscapes"
+    },
+    {
+      "name": "Ocean Blue",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/OceanBlue.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/OceanBlue.jpg",
+      "category": ""
+    },
+    {
+      "name": "Steal The Moon",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/StealTheMoon.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/StealTheMoon.jpg",
+      "category": "amazing"
+    },
+    {
+      "name": "Vapor Wave",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Vaporwave.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Vaporwave.png",
+      "category": ""
+    },
+    {
+      "name": "Marshmello",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Marshmello-2.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Marshmello-2.jpg",
+      "category": ""
+    },
+    {
+      "name": "Monster",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Monster.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Monster.jpg",
+      "category": "terror"
+    },
+    {
+      "name": "Road Mountain",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/RoadMountain.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/RoadMountain.jpg",
+      "category": "landscaps,nature"
+    },
+    {
+      "name": "Retro Moon",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/RetroMoon.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/RetroMoon.jpg",
+      "category": ""
+    },
+    {
+      "name": "Beach",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Beach.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Beach.jpg",
+      "category": ""
+    },
+    {
+      "name": "Street Lights",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/StreetLights.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/StreetLights.jpg",
+      "category": ""
+    },
+    {
+      "name": "Alice In Wonderland",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AliceInWonderland.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AliceInWonderland.jpg",
+      "category": ""
+    },
+    {
+      "name": "Manarola, Italy",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ManarolaItaly.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ManarolaItaly.jpg",
+      "category": "city,4k"
+    },
+    {
+      "name": "Cat Cute",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": "pet"
+    },
+    {
+      "name": "Beach Waves",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BeachWaves.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BeachWaves.jpg",
+      "category": "nature,4k"
+    },
+    {
+      "name": "Aurora Borealis",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AuroraBorealis.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AuroraBorealis.jpg",
+      "category": "nature"
+    },
+    {
+      "name": "Skys",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Skys.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Skys.jpg",
+      "category": "nature"
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CatCute.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CatCute.jpg",
+      "category": ""
     }
   ]
 }
