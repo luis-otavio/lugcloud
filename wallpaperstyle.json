@@ -58,7 +58,7 @@
       "name": "Team"
     },
     {
-      "name": "movies"
+      "name": "Movies"
     },
     {
       "name": "4K"
@@ -1851,8 +1851,8 @@
     {
       "name": "Retro Moon",
       "author": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/RetroMoon.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/RetroMoon.jpg",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/RetroMoon.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/RetroMoon.png",
       "category": ""
     },
     {
