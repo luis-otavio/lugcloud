@@ -65,6 +65,12 @@
     },
     {
       "name": "Flowers"
+    },
+    {
+      "name": "Games"
+    },
+    {
+      "name": "Biker"
     }
     
   ],
@@ -2156,6 +2162,42 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-686572.png",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-686572.png",
       "category": ""
+    },
+    {
+      "name": "Spider Man",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Spider-Man.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Spider-Man.jpg",
+      "category": "4k"
+    },
+    {
+      "name": "Bugatti Divo 2019 4K",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/bugatti-divo.jpeg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/bugatti-divo.jpeg",
+      "category": "4k,cars"
+    },
+    {
+      "name": "Tarn Lake Mountains",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/tarn-lake-mountains.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/tarn-lake-mountains.jpg",
+      "category": "nature,landscapes"
+    },
+    {
+      "name": "Jax League Of Legends",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/jax-lol-god-staff.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/jax-lol-god-staff.jpg",
+      "category": "games,4k"
+    },
+    {
+      "name": "Ryu Hadouken Street Fighter 2",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ryu-hadouken-street-fighter-2-55.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ryu-hadouken-street-fighter-2-55.jpg",
+      "category": "games,4k"
+    },
+    {
+      "name": "Off-road racing",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
+      "category": "biker,4k"
     }
   ]
 }
