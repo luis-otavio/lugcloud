@@ -1241,7 +1241,7 @@
       "size": 2270000
     },
     {
-      "name": "Abstrac tMonuments",
+      "name": "Abstract Monuments",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractMonuments-.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractMonuments-.jpg",
@@ -2099,6 +2099,27 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/the-dark-knight.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the-dark-knight.jpg",
       "category": "moveis,4k"
+    },
+    {
+      "name": "Batman Arkham Knightt",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BatmanArkhamKnight.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BatmanArkhamKnight.jpg",
+      "category": "moveis"
+    },
+    {
+      "name": "Game Over",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GameOver.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GameOver.png",
+      "category": "entretainment"
+    },
+    {
+      "name": "Ghost Rider",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GhostRider.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GhostRider.jpg",
+      "category": ""
     }
   ]
 }
