@@ -2120,6 +2120,42 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GhostRider.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GhostRider.jpg",
       "category": ""
+    },
+    {
+      "name": "City",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-687745.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-687745.jpg",
+      "category": "city"
+    },
+    {
+      "name": "Super Man",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-687562.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-687562.jpg",
+      "category": "movies"
+    },
+    {
+      "name": "Montain Landscapes",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-687556.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-687556.jpg",
+      "category": "landscapes"
+    },
+    {
+      "name": "Planet",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-687509.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-687509.png",
+      "category": ""
+    },
+    {
+      "name": "Mist",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-687399.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-687399.jpg",
+      "category": ""
+    },
+    {
+      "name": "Abstract Clouds",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-686572.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-686572.png",
+      "category": ""
     }
   ]
 }
