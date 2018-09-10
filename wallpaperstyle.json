@@ -2199,40 +2199,71 @@
       "category": "nature"
     },
     {
-      "name": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
+      "name": "Comics",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ComicsPower.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ComicsPower.jpg",
+      "category": "animes"
+    },
+    {
+      "name": "Save The Earth",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Savetheearth.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Savetheearth.jpg",
+      "category": "amazing"
+    },
+    {
+      "name": "Black Widow",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlackWidow.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlackWidow.jpg",
+      "category": "movies"
+    },
+    {
+      "name": "Sunset",
+      "author": "Al Soot",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Sunset.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
       "category": ""
     },
     {
-      "name": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
+      "name": "Love",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/bikerlove.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/bikerlove.jpg",
+      "category": "biker"
+    },
+    {
+      "name": "Los Angeles",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/los_angeles.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/los_angeles.jpg",
+      "category": "city,4k"
+    },
+    {
+      "name": "PUBG With Girls",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/pubg_with_girls.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/pubg_with_girls.jpg",
+      "category": "games"
+    },
+    {
+      "name": "Biker",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/biker.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/biker.jpg",
+      "category": "biker"
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/cristiano_ronaldo.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/cristiano_ronaldo.jpg",
+      "category": "team"
+    },
+    {
+      "name": "Jesus",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/jesus.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/jesus.jpg",
       "category": ""
     },
     {
-      "name": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
-      "category": ""
-    },
-    {
-      "name": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
-      "category": ""
-    },
-    {
-      "name": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
-      "category": ""
-    },
-    {
-      "name": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
-      "category": ""
-    },
+      "name": "Avenger",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/avenger.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/avenger.jpg",
+      "category": "movies"
+    }
   ]
 }
