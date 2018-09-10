@@ -1750,13 +1750,6 @@
       "category": "animes"
     },
     {
-      "name": "Bart Is Hype",
-      "author": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/kittebart_is_hypens.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/bart_is_hype.jpg",
-      "category": "animes"
-    },
-    {
       "name": "4k Full HD",
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/4k_fulhd.jpg",
@@ -2198,6 +2191,48 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
       "category": "biker,4k"
-    }
+    },
+    {
+      "name": "Mountain Snow",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/MountainSnow.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/MountainSnow.jpg",
+      "category": "nature"
+    },
+    {
+      "name": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
+      "category": ""
+    },
+    {
+      "name": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/motocross.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/motocross.jpg",
+      "category": ""
+    },
   ]
 }
