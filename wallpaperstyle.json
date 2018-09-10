@@ -2110,6 +2110,12 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GhostRider.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GhostRider.jpg",
       "category": ""
+    },
+    {
+      "name": "Super Man",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-687562.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-687562.jpg",
+      "category": "movies"
     }
   ]
 }
