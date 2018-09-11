@@ -2284,6 +2284,20 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wallhaven-687745.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wallhaven-687745.jpg",
       "category": "city"
+    },
+    {
+      "name": "Sunset Mountain",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SunsetMountain.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SunsetMountain.jpg",
+      "category": ""
+    },
+    {
+      "name": "Abstract Colorful",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractColorful-1.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractColorful-1.jpg",
+      "category": ""
     }
   ]
 }
