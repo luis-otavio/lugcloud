@@ -2084,8 +2084,8 @@
     {
       "name": "Game Over",
       "author": "",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GameOver.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GameOver.png",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Mario.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Mario.png",
       "category": "entretainment"
     },
     {
@@ -2093,6 +2093,12 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/GhostRider.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/GhostRider.jpg",
+      "category": ""
+    },
+    {
+      "name": "Jesus",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/jesus.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/jesus.jpg",
       "category": ""
     }
   ]
