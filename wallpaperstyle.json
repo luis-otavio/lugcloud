@@ -71,6 +71,9 @@
     },
     {
       "name": "Biker"
+    },
+    {
+      "name": "Sports"
     }
     
   ],
@@ -2298,6 +2301,111 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AbstractColorful-1.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AbstractColorful-1.jpg",
       "category": "abstract"
+    },
+    {
+      "name": "Screen Colorful",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/ScreenColorful.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/ScreenColorful.jpg",
+      "category": "abstract"
+    },
+    {
+      "name": "Towers",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Towers.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Towers.jpg",
+      "category": "city"
+    },
+    {
+      "name": "Butterfly",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/butterfly.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/butterfly.jpg",
+      "category": "flowers"
+    },
+    {
+      "name": "Island",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Island.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Island.jpg",
+      "category": "nature"
+    },
+    {
+      "name": "Central Park",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/CentralPark.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/CentralPark.jpg",
+      "category": "city"
+    },
+    {
+      "name": "Flower",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/flower.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/flower.jpg",
+      "category": "flowers"
+    },
+    {
+      "name": "City",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/city-1.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/city-1.jpg",
+      "category": "city"
+    },
+    {
+      "name": "Landscapes Nature",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Landscapes-Nature.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Landscapes-Nature.jpg",
+      "category": "landscapes"
+    },
+    {
+      "name": "Surf Wave",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SurfWave.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SurfWave.jpg",
+      "category": "Sports"
+    },
+    {
+      "name": "Basketball",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Basketball.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Basketball.jpg",
+      "category": "sports"
+    },
+    {
+      "name": "Cookies",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Cookies.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Cookies.jpg",
+      "category": "food"
+    },
+    {
+      "name": "Dandelion",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dandelion.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dandelion.jpg",
+      "category": "flowers"
+    },
+    {
+      "name": "Dragon Wars",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/DragonWars.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/DragonWars.jpg",
+      "category": "amazing"
+    },
+    {
+      "name": "Marvel Day At Sea",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/marvel_day_at.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/marvel_day_at.jpg",
+      "category": "movies,4k"
+    },
+    {
+      "name": "Mermaid In Bulb",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/mermaid_in_bulb.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/mermaid_in_bulb.jpg",
+      "category": "amazing,4k"
     }
   ]
 }
