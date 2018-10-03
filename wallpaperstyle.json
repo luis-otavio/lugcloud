@@ -74,8 +74,13 @@
     },
     {
       "name": "Sports"
+    },
+    {
+      "name": "Animals"
+    },
+    {
+      "name": "Others"
     }
-    
   ],
   "Wallpapers": [
     
@@ -92,7 +97,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/the_meg.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the_meg.jpg",
-      "category": "",
+      "category": "entretainment,animals",
       "size": 429400
     },
     {
@@ -212,7 +217,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/weed.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/weed.jpg",
-      "category": "",
+      "category": "entretainment",
       "size": 270000
     },
     {
@@ -236,7 +241,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/lazy_day.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/lazy_day.jpg",
-      "category": "",
+      "category": "entretainment,people",
       "size": 1157000
     },
     {
@@ -287,7 +292,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/wolf.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/wolf.jpg",
-      "category": "",
+      "category": "animals",
       "size": 874000
        
     },
@@ -404,7 +409,7 @@
       "author": "Nathan Dumlao",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/brick-wall.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/brick-wall.jpg",
-      "category": "",
+      "category": "others",
       "size": 2085000
        
     },
@@ -422,7 +427,7 @@
       "author": "Ron Smith",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Worship.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Worship.jpg",
-      "category": "",
+      "category": "others",
       "size": 3399000
        
     },
@@ -499,15 +504,6 @@
        
     },
     {
-      "name": "London, United Kingdom",
-      "author": "Greg Tockner",
-      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/photo-1534939994634.jpg",
-      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/photo-1534939994634.jpg",
-      "category": "",
-      "size": 1257000
-       
-    },
-    {
       "name": "Instagram Sunset",
       "author": "Sánchez Noskov",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/InstagramSunset.jpg",
@@ -575,7 +571,7 @@
       "author": "Ian Dooley",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/AllRise.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/AllRise.jpg",
-      "category": "",
+      "category": "others",
       "size": 727000
        
     },
@@ -1189,7 +1185,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Bubbles.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Bubbles.jpg",
-      "category": "",
+      "category": "others",
       "size": 563000
     },
     {
@@ -1197,7 +1193,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/BlackBullet.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/BlackBullet.jpg",
-      "category": "",
+      "category": "entretainment",
       "size": 281000
     },
     {
@@ -1373,7 +1369,7 @@
       "author": "Damon Lam",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Fire.jpeg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Fire.jpeg",
-      "category": "",
+      "category": "others",
       "size": 234300
     },
     {
@@ -1525,7 +1521,7 @@
       "author": "Andy Wright",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/SunriseatMtBromo.jpeg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/SunriseatMtBromo.jpeg",
-      "category": "",
+      "category": "landscapes",
       "size": 101300
     },
     {
@@ -3231,7 +3227,7 @@
       "author": "",
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/warrior.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/warrior.jpg",
-      "category": "games"
+      "category": "games,entretainment"
     },
     {
       "name": "Landscapes",
