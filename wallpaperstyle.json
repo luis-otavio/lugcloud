@@ -80,6 +80,9 @@
     },
     {
       "name": "Others"
+    },
+    {
+      "name": "Series"
     }
   ],
   "Wallpapers": [
@@ -3368,6 +3371,202 @@
       "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/art_sunset.jpg",
       "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/art_sunset.jpg",
       "category": ""
+    },
+    {
+      "name": "Let's Fly",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Lets_fly.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Lets_fly.jpg",
+      "category": "landscapes,4k"
+    },
+    {
+      "name": "Dark Phoenix",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Dark_Phoenix.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Dark_Phoenix.jpg",
+      "category": "movies"
+    },
+    {
+      "name": "Spiderman 2018",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/spiderman-2018.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/spiderman-2018.jpg",
+      "category": "animes"
+    },
+    {
+      "name": "Hereditary",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Hereditary.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Hereditary.jpg",
+      "category": "amazing,movies,4k"
+    },
+    {
+      "name": "Falling Leaves",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Falling_leaves.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Falling_leaves.jpg",
+      "category": "nature,4k"
+    },
+    {
+      "name": "Stranger Things",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/StrangerThings.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/StrangerThings.jpg",
+      "category": "series"
+    },
+    {
+      "name": "Romance Story",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Romance_story.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Romance_story.jpg",
+      "category": "love,4k"
+    },
+    {
+      "name": "The Punisher",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/the_punisher_netflix.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/the_punisher_netflix.jpg",
+      "category": "series,4k"
+    },
+    {
+      "name": "Far Cry 5 Cult",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/far-cry-5-cult.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/far-cry-5-cult.jpg",
+      "category": "games,4k"
+    },
+    {
+      "name": "Big White Tiger",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/big-white-tiger.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/big-white-tiger.jpg",
+      "category": "animals,4k"
+    },
+    {
+      "name": "Sunset Dawn",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/sunset_dawn_nature.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/sunset_dawn_nature.jpg",
+      "category": "nature,4k"
+    },
+    {
+      "name": "Goku Dragon Ball",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/goku_dragon_ball.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/goku_dragon_ball.jpg",
+      "category": "animes"
+    },
+    {
+      "name": "Civilization VI Rise and Fall",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/civilization-vi-rise-and-fall.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/civilization-vi-rise-and-fall.jpg",
+      "category": "games,4k"
+    },
+    {
+      "name": "Macaw Parrot",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/macaw-parrot.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/macaw-parrot.jpg",
+      "category": "animals,4k"
+    },
+    {
+      "name": "Lighthouse",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/lighthouse.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/lighthouse.jpg",
+      "category": "nature,4k"
+    },
+    {
+      "name": "Snow Night Street People Walking",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/snow-night-street-people-walking.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/snow-night-street-people-walking.jpg",
+      "category": "4k,city,people"
+    },
+    {
+      "name": "Playerunknowns Battlegrounds",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/playerunknowns.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/playerunknowns.jpg",
+      "category": "4k,games"
+    },
+    {
+      "name": "Novitec Mclaren 720s",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/novitec-mclaren.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/novitec-mclaren.jpg",
+      "category": "cars,4k"
+    },
+    {
+      "name": "Dark space",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/astronaut.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/astronaut.jpg",
+      "category": "4k,space,amazing"
+    },
+    {
+      "name": "Life Is Strange",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/LifeIsStrange.png",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/LifeIsStrange.png",
+      "category": "games,love"
+    },
+    {
+      "name": "iPhone X",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/iPhoneX.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/iPhoneX.jpg",
+      "category": "others"
+    },
+    {
+      "name": "Ferrari Formula 1",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/FerrariFormula1.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/FerrariFormula1.jpg",
+      "category": "cars"
+    },
+    {
+      "name": "Landscapes Nature Sky",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/LandscapesNatureSky.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/LandscapesNatureSky.jpg",
+      "category": "landscapes,nature"
+    },
+    {
+      "name": "Outlines",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Outlines.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Outlines.jpg",
+      "category": "abstract"
+    },
+    {
+      "name": "Porsche Carrera",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/PorscheCarrera.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/PorscheCarrera.jpg",
+      "category": "cars,4k"
+    },
+    {
+      "name": "Crow",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Crow.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Crow.jpg",
+      "category": "animals"
+    },
+    {
+      "name": "Earth",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/Earth.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/Earth.jpg",
+      "category": "space,4k"
+    },
+    {
+      "name": "Hybrid People",
+      "author": "",
+      "url": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/HybridPeople.jpg",
+      "thumbUrl": "https://github.com/luis-otavio/lugcloud/raw/master/wallpapers/thumbnails/HybridPeople.jpg",
+      "category": "amazing,4k"
     }
   ]
 }
